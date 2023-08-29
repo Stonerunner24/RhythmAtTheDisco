@@ -1971,3 +1971,119 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.29-02.35.06:463][261]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Arrow.Arrow:PersistentLevel.StaticMeshActor_UAID_7486E22E0D4997A101_1196606751
 [2023.08.29-02.35.06:463][261]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/Arrow.Arrow:PersistentLevel.PlayerStart_UAID_9C5A44750A40E5A301_1489025592
 [2023.08.29-02.35.06:463][261]LogContentValidation: Display: Validating /Game/models/upArrow.upArrow_C /Game/Arrow.Arrow:PersistentLevel.upArrow_C_UAID_9C5A44750A40E6A301_1951069769
+[2023.08.29-02.36.00:320][724]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.08.29-02.36.00:336][724]LogContentBrowser: Creating deferred item: NewFolder
+[2023.08.29-02.36.00:354][725]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.08.29-02.36.07:510][ 96]LogContentBrowser: Attempting asset rename: NewFolder -> arrows
+[2023.08.29-02.36.07:511][ 96]LogContentBrowser: End creating deferred item NewFolder
+[2023.08.29-02.36.16:731][524]LogContentBrowser: Attempting asset rename: arrows -> arrowSpawnables
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.upArrow:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.SKEL_upArrow_C' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.upArrow_C' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.upArrow:EventGraph.K2Node_Event_0' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.upArrow:EventGraph.K2Node_Event_1' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.upArrow:EventGraph.K2Node_Event_2' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.SKEL_upArrow_C:UserConstructionScript' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.SKEL_upArrow_C:ReceiveTick' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.SKEL_upArrow_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:478][745]LogMetaData: Removing '/Game/models/arrowSpawnables/upArrow.SKEL_upArrow_C:ReceiveBeginPlay' ref from Metadata '/Game/models/upArrow.PackageMetaData'
+[2023.08.29-02.36.21:480][745]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.36.21:520][745]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/upArrow
+[2023.08.29-02.36.21:520][745]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/upArrow31213DFE4D90E416497974A5C98037FD.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/upArrow.uasset'
+[2023.08.29-02.36.21:527][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/upArrow" FILE="C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/upArrow.uasset" SILENT=true
+[2023.08.29-02.36.21:528][745]LogSavePackage: Moving output files for package: /Game/models/upArrow
+[2023.08.29-02.36.21:529][745]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/upArrowDEF583B74A62260A200DE49E58C21027.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/upArrow.uasset'
+[2023.08.29-02.36.21:544][745]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 8.84 sec)
+[2023.08.29-02.36.21:563][745]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.29-02.36.21:563][745]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/upArrow.upArrow
+[2023.08.29-02.36.21:563][745]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/upArrow.upArrow
+[2023.08.29-02.36.21:563][745]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/upArrow.Default__upArrow_C
+[2023.08.29-02.36.21:563][745]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/upArrow.upArrow_C
+[2023.08.29-02.36.34:015][356]LogContentBrowser: Deferred new asset file creation: upArrow1
+[2023.08.29-02.36.34:031][356]LogContentBrowser: Creating deferred item: upArrow1
+[2023.08.29-02.36.34:049][357]LogContentBrowser: Renaming the item being created (Deferred Item: upArrow1).
+[2023.08.29-02.36.40:730][709]LogContentBrowser: Attempting asset rename: upArrow1 -> downArrow
+[2023.08.29-02.36.40:982][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.08.29-02.36.41:015][709]LogContentBrowser: End creating deferred item upArrow1
+[2023.08.29-02.36.41:018][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-02.36.42:304][773]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/models/arrowSpawnables/downArrow.downArrow
+[2023.08.29-02.36.42:304][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-02.36.42:304][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-02.36.42:523][773]LogSlate: Took 0.029037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.08.29-02.36.49:476][135]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.29-02.37.32:647][334]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.37.32:702][334]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/downArrow
+[2023.08.29-02.37.32:703][334]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/downArrowCDAC1113496B3EDCED2F0699F9A9C10F.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/downArrow.uasset'
+[2023.08.29-02.37.32:719][334]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 8.92 sec)
+[2023.08.29-02.37.32:726][334]AssetCheck: New page: Asset Save: downArrow
+[2023.08.29-02.37.32:726][334]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/downArrow.downArrow
+[2023.08.29-02.37.34:275][413]BlueprintLog: New page: Compile downArrow
+[2023.08.29-02.37.34:336][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.08.29-02.37.37:037][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.37.37:038][536]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.37.37:039][536]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_0
+[2023.08.29-02.37.37:041][536]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_0
+[2023.08.29-02.37.38:565][596]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.37.38:565][596]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.37.38:569][596]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_UAID_9C5A44750A40E6A301_2128677770
+[2023.08.29-02.37.38:572][596]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_UAID_9C5A44750A40E6A301_2128677770
+[2023.08.29-02.37.38:601][596]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-02.37.55:357][451]BlueprintLog: New page: Compile downArrow
+[2023.08.29-02.37.55:420][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.08.29-02.38.13:234][239]Cmd: DELETE
+[2023.08.29-02.38.13:234][239]Cmd: ACTOR DELETE
+[2023.08.29-02.38.13:351][239]LogEditorActor: Deleted Actor: downArrow_C
+[2023.08.29-02.38.13:382][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.08.29-02.38.13:384][239]LogEditorActor: Deleted 1 Actors (0.140 secs)
+[2023.08.29-02.38.15:290][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.38.15:290][327]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.38.15:294][327]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_1
+[2023.08.29-02.38.15:296][327]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_1
+[2023.08.29-02.38.16:320][367]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.38.16:320][367]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.29-02.38.16:325][367]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_UAID_9C5A44750A40E7A301_1092690947
+[2023.08.29-02.38.16:328][367]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/downArrow.downArrow as actor: downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_UAID_9C5A44750A40E7A301_1092690947
+[2023.08.29-02.38.18:054][454]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.29-02.38.27:354][864]Cmd: TRANSACTION UNDO
+[2023.08.29-02.38.27:355][864]LogEditorTransaction: Undo Rotate Elements
+[2023.08.29-02.38.27:419][864]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.29-02.38.31:110][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.38.31:278][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.08.29-02.38.31:304][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.08.29-02.38.31:335][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.29-02.38.31:338][ 30]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Arrow/5/VE/00U9LJH2ADENTZRFR6ERTS
+[2023.08.29-02.38.31:338][ 30]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/00U9LJH2ADENTZRFR6ERTS422109A6441EF27550B19C9DFE26D57A.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/Arrow/5/VE/00U9LJH2ADENTZRFR6ERTS.uasset'
+[2023.08.29-02.38.31:352][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 242 ms (total: 9.16 sec)
+[2023.08.29-02.38.31:362][ 30]AssetCheck: New page: Asset Save: downArrow_C_UAID_9C5A44750A40E7A301_1092690947
+[2023.08.29-02.38.31:362][ 30]LogContentValidation: Display: Validating /Game/models/arrowSpawnables/downArrow.downArrow_C /Game/Arrow.Arrow:PersistentLevel.downArrow_C_UAID_9C5A44750A40E7A301_1092690947
+[2023.08.29-02.38.32:951][103]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.38.33:025][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.08.29-02.38.33:052][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.08.29-02.38.33:080][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.08.29-02.38.33:088][103]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 9.29 sec)
+[2023.08.29-02.38.34:358][163]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.38.34:439][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.08.29-02.38.34:468][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.29-02.38.34:492][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.08.29-02.38.34:500][163]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 9.44 sec)
+[2023.08.29-02.38.35:269][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.38.35:345][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.08.29-02.38.35:373][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.29-02.38.35:403][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.08.29-02.38.35:411][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 9.58 sec)
+[2023.08.29-02.38.35:759][217]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.38.35:841][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.29-02.38.35:870][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.08.29-02.38.35:899][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.08.29-02.38.35:907][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 9.73 sec)
+[2023.08.29-02.38.40:060][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.38.40:153][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.29-02.38.40:180][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.08.29-02.38.40:206][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.08.29-02.38.40:215][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 9.88 sec)
+[2023.08.29-02.38.43:213][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-02.38.43:266][542]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/downArrow
+[2023.08.29-02.38.43:266][542]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/downArrow16A827334C3D66EA7FAFFCA002988051.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/downArrow.uasset'
+[2023.08.29-02.38.43:278][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 9.95 sec)
+[2023.08.29-02.38.43:285][542]AssetCheck: New page: Asset Save: downArrow
+[2023.08.29-02.38.43:285][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/downArrow.downArrow
