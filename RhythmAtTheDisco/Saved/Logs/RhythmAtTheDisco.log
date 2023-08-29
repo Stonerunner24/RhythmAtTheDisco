@@ -2150,3 +2150,30 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.29-16.13.59:265][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 10.2 sec)
 [2023.08.29-16.13.59:272][784]AssetCheck: New page: Asset Save: upArrow
 [2023.08.29-16.13.59:272][784]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/upArrow.upArrow
+[2023.08.29-16.14.26:899][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.08.29-16.14.27:235][950]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Arrow/B/IT/O91KXHX91P2JOZQO2CC8J3_Auto3
+[2023.08.29-16.14.27:235][950]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/O91KXHX91P2JOZQO2CC8J3_Auto33E6526F748E8A2334A69A7BFF59DD50A.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Autosaves/Game/__ExternalActors__/Arrow/B/IT/O91KXHX91P2JOZQO2CC8J3_Auto3.uasset'
+[2023.08.29-16.14.27:237][950]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Arrow' took 0.362
+[2023.08.29-16.14.27:237][950]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.362
+[2023.08.29-16.16.05:922][295]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.08.29-16.16.06:048][295]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.08.29-16.16.06:055][295]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.08.29-16.16.06:071][296]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.08.29-16.16.12:486][600]LogContentBrowser: Attempting asset rename: NewBlueprint -> arrowSpawnManager
+[2023.08.29-16.16.12:678][600]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.08.29-16.16.20:480][975]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/models/arrowSpawnables/arrowSpawnManager.arrowSpawnManager
+[2023.08.29-16.16.20:481][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-16.16.20:481][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-16.16.20:700][975]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.29-16.22.08:438][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-16.22.08:878][381]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/arrowSpawnManager
+[2023.08.29-16.22.08:878][381]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/arrowSpawnManagerF618E4FB4500E4CD3E4A7B833DA932FE.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/arrowSpawnManager.uasset'
+[2023.08.29-16.22.08:892][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 454 ms (total: 10.6 sec)
+[2023.08.29-16.22.08:902][381]AssetCheck: New page: Asset Save: arrowSpawnManager
+[2023.08.29-16.22.08:902][381]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/arrowSpawnManager.arrowSpawnManager
+[2023.08.29-16.22.11:190][496]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-16.22.11:259][496]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/arrowSpawnManager
+[2023.08.29-16.22.11:260][496]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/arrowSpawnManager0D6D14F145F4AEAD958D01A66A55B7AB.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/arrowSpawnManager.uasset'
+[2023.08.29-16.22.11:269][496]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 10.7 sec)
+[2023.08.29-16.22.11:276][496]AssetCheck: New page: Asset Save: arrowSpawnManager
+[2023.08.29-16.22.11:276][496]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/arrowSpawnManager.arrowSpawnManager
