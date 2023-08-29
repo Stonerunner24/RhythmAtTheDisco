@@ -2100,3 +2100,53 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.29-10.06.46:021][295]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.104 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2160 files in 2939 folders with total size 95 MiB.
 [2023.08.29-11.06.46:024][ 95]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2160 files in 2939 folders with total size 95 MiB.
 [2023.08.29-12.06.46:985][897]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.067 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2160 files in 2939 folders with total size 95 MiB.
+[2023.08.29-13.06.46:030][692]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.110 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2160 files in 2939 folders with total size 95 MiB.
+[2023.08.29-14.06.46:023][491]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.103 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2160 files in 2939 folders with total size 95 MiB.
+[2023.08.29-15.06.46:983][294]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.063 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2160 files in 2939 folders with total size 95 MiB.
+[2023.08.29-16.06.46:021][ 91]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2160 files in 2939 folders with total size 95 MiB.
+[2023.08.29-16.12.06:563][552]LogContentBrowser: Deferred new asset file creation: upArrow1
+[2023.08.29-16.12.06:577][552]LogContentBrowser: Creating deferred item: upArrow1
+[2023.08.29-16.12.06:598][553]LogContentBrowser: Renaming the item being created (Deferred Item: upArrow1).
+[2023.08.29-16.12.11:790][799]LogContentBrowser: Attempting asset rename: upArrow1 -> leftArrow
+[2023.08.29-16.12.12:087][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.29-16.12.12:140][799]LogContentBrowser: End creating deferred item upArrow1
+[2023.08.29-16.12.12:142][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-16.12.13:707][870]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/models/arrowSpawnables/leftArrow.leftArrow
+[2023.08.29-16.12.13:789][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-16.12.13:789][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-16.12.16:335][993]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.29-16.12.49:144][560]BlueprintLog: New page: Compile leftArrow
+[2023.08.29-16.12.49:336][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.08.29-16.12.52:850][702]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-16.12.52:940][702]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/leftArrow
+[2023.08.29-16.12.52:940][702]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/leftArrowA6A87FCC45A4FAC4C23AAA9CA742C6FE.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/leftArrow.uasset'
+[2023.08.29-16.12.52:960][702]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 10.0 sec)
+[2023.08.29-16.12.53:103][702]AssetCheck: New page: Asset Save: leftArrow
+[2023.08.29-16.12.53:103][702]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/leftArrow.leftArrow
+[2023.08.29-16.12.56:170][840]LogContentBrowser: Deferred new asset file creation: leftArrow1
+[2023.08.29-16.12.56:188][840]LogContentBrowser: Creating deferred item: leftArrow1
+[2023.08.29-16.12.56:206][841]LogContentBrowser: Renaming the item being created (Deferred Item: leftArrow1).
+[2023.08.29-16.13.00:336][ 38]LogContentBrowser: Attempting asset rename: leftArrow1 -> rightArrow
+[2023.08.29-16.13.00:374][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.08.29-16.13.00:384][ 38]LogContentBrowser: End creating deferred item leftArrow1
+[2023.08.29-16.13.00:386][ 38]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-16.13.02:255][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow
+[2023.08.29-16.13.02:255][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.29-16.13.02:255][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.29-16.13.04:480][222]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.29-16.13.28:308][368]BlueprintLog: New page: Compile rightArrow
+[2023.08.29-16.13.28:407][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.08.29-16.13.33:159][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-16.13.33:214][584]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/rightArrow
+[2023.08.29-16.13.33:214][584]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/rightArrow893F4CBB400038A1DF8F9D8A88633D8A.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/rightArrow.uasset'
+[2023.08.29-16.13.33:234][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 10.1 sec)
+[2023.08.29-16.13.33:241][584]AssetCheck: New page: Asset Save: rightArrow
+[2023.08.29-16.13.33:241][584]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow
+[2023.08.29-16.13.53:239][521]BlueprintLog: New page: Compile upArrow
+[2023.08.29-16.13.53:374][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.08.29-16.13.59:200][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.29-16.13.59:253][784]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/upArrow
+[2023.08.29-16.13.59:254][784]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/upArrow9453513C48C39D8357846D8386E1F965.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/upArrow.uasset'
+[2023.08.29-16.13.59:265][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 10.2 sec)
+[2023.08.29-16.13.59:272][784]AssetCheck: New page: Asset Save: upArrow
+[2023.08.29-16.13.59:272][784]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/upArrow.upArrow
