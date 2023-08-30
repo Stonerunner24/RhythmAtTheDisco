@@ -3756,3 +3756,544 @@ GroupActor
 [2023.08.30-19.06.54:219][317]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.08.30-19.06.54:230][318]LogPlayLevel: Display: Destroying online subsystem :Context_34
 [2023.08.30-19.06.54:256][318]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.07.36:022][798]LogDerivedDataCache: C:/Users/minec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.295 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2345 files in 3167 folders with total size 107 MiB.
+[2023.08.30-19.08.17:882][213]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.08.17:882][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.08.18:668][236]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.30-19.08.18:668][236]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.08.18:668][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.08.18:761][236]LogViewport: Scene viewport resized to 1204x657, mode Windowed.
+[2023.08.30-19.08.19:087][237]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.30-19.08.19:594][261]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.08.30-19.08.19:594][261]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.08.19:594][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.08.34:641][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.08.30-19.08.37:938][105]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.30-19.08.40:526][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.08.45:636][546]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.08.55:741][102]Cmd: DELETE
+[2023.08.30-19.08.55:741][102]Cmd: ACTOR DELETE
+[2023.08.30-19.08.55:744][102]LogEditorActor: Deleted Actor: downArrow_C
+[2023.08.30-19.08.55:805][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.08.30-19.08.55:812][102]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2023.08.30-19.09.03:685][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.08.30-19.09.11:434][517]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.30-19.09.20:461][998]LogContentBrowser: Attempting asset rename: downArrow -> DONOTUSE
+[2023.08.30-19.09.23:249][998]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE.DONOTUSE_C' ref from Metadata '/Game/models/arrowSpawnables/downArrow.PackageMetaData'
+[2023.08.30-19.09.23:256][998]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE.SKEL_DONOTUSE_C' ref from Metadata '/Game/models/arrowSpawnables/downArrow.PackageMetaData'
+[2023.08.30-19.09.23:256][998]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE.SKEL_DONOTUSE_C:ReceiveBeginPlay' ref from Metadata '/Game/models/arrowSpawnables/downArrow.PackageMetaData'
+[2023.08.30-19.09.23:256][998]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE.SKEL_DONOTUSE_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/models/arrowSpawnables/downArrow.PackageMetaData'
+[2023.08.30-19.09.23:256][998]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE.SKEL_DONOTUSE_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/downArrow.PackageMetaData'
+[2023.08.30-19.09.23:256][998]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE.SKEL_DONOTUSE_C:UserConstructionScript' ref from Metadata '/Game/models/arrowSpawnables/downArrow.PackageMetaData'
+[2023.08.30-19.09.23:373][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.09.23:468][998]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/DONOTUSE
+[2023.08.30-19.09.23:468][998]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/DONOTUSED70DBA3F47ABF0B91A1E78B4F2A8C3BD.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/DONOTUSE.uasset'
+[2023.08.30-19.09.23:478][998]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/downArrow
+[2023.08.30-19.09.23:479][998]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/downArrowD81080B84A4D709DF62857B00F4A0B93.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/downArrow.uasset'
+[2023.08.30-19.09.23:491][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.62 sec)
+[2023.08.30-19.09.23:499][998]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.30-19.09.23:499][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/DONOTUSE.DONOTUSE
+[2023.08.30-19.09.23:499][998]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/arrowSpawnables/downArrow.Default__downArrow_C
+[2023.08.30-19.09.23:499][998]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/arrowSpawnables/downArrow.downArrow_C
+[2023.08.30-19.09.23:499][998]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/arrowSpawnables/downArrow.downArrow
+[2023.08.30-19.09.23:509][999]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.09.34:030][561]LogContentBrowser: Attempting asset rename: leftArrow -> DONOTUSE1
+[2023.08.30-19.09.34:094][561]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE1.DONOTUSE1_C' ref from Metadata '/Game/models/arrowSpawnables/leftArrow.PackageMetaData'
+[2023.08.30-19.09.34:094][561]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE1.SKEL_DONOTUSE1_C:UserConstructionScript' ref from Metadata '/Game/models/arrowSpawnables/leftArrow.PackageMetaData'
+[2023.08.30-19.09.34:094][561]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE1.SKEL_DONOTUSE1_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/leftArrow.PackageMetaData'
+[2023.08.30-19.09.34:094][561]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE1.SKEL_DONOTUSE1_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/models/arrowSpawnables/leftArrow.PackageMetaData'
+[2023.08.30-19.09.34:094][561]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE1.SKEL_DONOTUSE1_C:ReceiveBeginPlay' ref from Metadata '/Game/models/arrowSpawnables/leftArrow.PackageMetaData'
+[2023.08.30-19.09.34:094][561]LogMetaData: Removing '/Game/models/arrowSpawnables/DONOTUSE1.SKEL_DONOTUSE1_C' ref from Metadata '/Game/models/arrowSpawnables/leftArrow.PackageMetaData'
+[2023.08.30-19.09.34:095][561]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.09.34:131][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.09.34:168][561]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/DONOTUSE1
+[2023.08.30-19.09.34:168][561]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/DONOTUSE1526B790D4930EB7E4E18B1854655AE08.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/DONOTUSE1.uasset'
+[2023.08.30-19.09.34:186][561]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.71 sec)
+[2023.08.30-19.09.34:267][561]LogWorldPartition: Actor /Game/Arrow.Arrow:PersistentLevel.downArrow_C_UAID_9C5A44750A40E7A301_1092690947 is unreachable without properly detaching object /Game/__ExternalActors__/Arrow/5/VE/00U9LJH2ADENTZRFR6ERTS.PackageMetaData in its package
+[2023.08.30-19.09.34:267][561]LogWorldPartition: Actor /Game/Arrow.Arrow:PersistentLevel.BP_Spline_C_UAID_9C5A44750A406DA401_1301921527 is unreachable without properly detaching object /Game/__ExternalActors__/Arrow/1/E8/XFD34M0UIFQ66V75DP1SEV.PackageMetaData in its package
+[2023.08.30-19.09.34:272][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.08.30-19.09.34:298][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.08.30-19.09.34:326][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.30-19.09.34:332][561]AssetCheck: New page: Asset Save: DONOTUSE1
+[2023.08.30-19.09.34:332][561]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/DONOTUSE1.DONOTUSE1
+[2023.08.30-19.09.34:361][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.08.30-19.09.47:968][261]LogContentBrowser: Deferred new asset file creation: rightArrow1
+[2023.08.30-19.09.47:980][261]LogContentBrowser: Creating deferred item: rightArrow1
+[2023.08.30-19.09.47:992][262]LogContentBrowser: Renaming the item being created (Deferred Item: rightArrow1).
+[2023.08.30-19.09.54:400][620]LogContentBrowser: Attempting asset rename: rightArrow1 -> BP_downArrow
+[2023.08.30-19.09.54:436][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.08.30-19.09.54:454][620]LogContentBrowser: End creating deferred item rightArrow1
+[2023.08.30-19.09.54:455][620]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.09.57:749][792]LogContentBrowser: Deferred new asset file creation: rightArrow1
+[2023.08.30-19.09.57:765][792]LogContentBrowser: Creating deferred item: rightArrow1
+[2023.08.30-19.09.57:778][793]LogContentBrowser: Renaming the item being created (Deferred Item: rightArrow1).
+[2023.08.30-19.10.01:188][966]LogContentBrowser: Attempting asset rename: rightArrow1 -> rightArrow1
+[2023.08.30-19.10.01:219][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.08.30-19.10.01:233][966]LogContentBrowser: End creating deferred item rightArrow1
+[2023.08.30-19.10.01:235][966]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.10.05:862][207]LogContentBrowser: Attempting asset rename: rightArrow1 -> rightArrow1
+[2023.08.30-19.10.13:967][627]LogHttp: Warning: 00000660A332F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA242ECF-47C7-DFA9-42CB-C38AFD45A037%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6cb46baf474d292e606049aa8f287b75%7Ce54d05d844a347f486ae726e47862b0e%7C2efe6c2d-a48c-4080-99be-53ca37210037&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.30-19.10.13:978][627]LogHttp: Warning: 00000660A332F500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.08.30-19.10.13:979][627]LogHttp: Warning: 00000660A332F500: libcurl info message cache 0 (Found bundle for host: 0x6605e960630 [serially])
+[2023.08.30-19.10.13:979][627]LogHttp: Warning: 00000660A332F500: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.08.30-19.10.13:979][627]LogHttp: Warning: 00000660A332F500: libcurl info message cache 2 (Closing connection 2)
+[2023.08.30-19.10.13:979][627]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA242ECF-47C7-DFA9-42CB-C38AFD45A037%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6cb46baf474d292e606049aa8f287b75%7Ce54d05d844a347f486ae726e47862b0e%7C2efe6c2d-a48c-4080-99be-53ca37210037&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.30-19.10.19:411][927]LogContentBrowser: Attempting asset rename: rightArrow1 -> BP_leftArrow
+[2023.08.30-19.10.19:438][927]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_leftArrow.SKEL_BP_leftArrow_C' ref from Metadata '/Game/models/arrowSpawnables/rightArrow1.PackageMetaData'
+[2023.08.30-19.10.19:438][927]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow_C' ref from Metadata '/Game/models/arrowSpawnables/rightArrow1.PackageMetaData'
+[2023.08.30-19.10.19:438][927]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_leftArrow.SKEL_BP_leftArrow_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/rightArrow1.PackageMetaData'
+[2023.08.30-19.10.19:438][927]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_leftArrow.SKEL_BP_leftArrow_C:UserConstructionScript' ref from Metadata '/Game/models/arrowSpawnables/rightArrow1.PackageMetaData'
+[2023.08.30-19.10.19:438][927]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/rightArrow1.PackageMetaData'
+[2023.08.30-19.10.19:441][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.10.19:475][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.10.19:526][927]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_leftArrow
+[2023.08.30-19.10.19:526][927]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_leftArrow173782EF4D229F5832CEFD99D0578367.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_leftArrow.uasset'
+[2023.08.30-19.10.19:544][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.82 sec)
+[2023.08.30-19.10.19:581][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.08.30-19.10.19:608][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.08.30-19.10.19:633][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.08.30-19.10.19:639][927]AssetCheck: New page: Asset Save: BP_leftArrow
+[2023.08.30-19.10.19:639][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow
+[2023.08.30-19.10.26:714][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow
+[2023.08.30-19.10.26:715][281]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.10.26:715][281]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.10.31:193][492]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.30-19.10.44:536][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.10.44:631][115]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_downArrow
+[2023.08.30-19.10.44:631][115]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_downArrowC58DFBC2493704F553556F840F483BE9.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_downArrow.uasset'
+[2023.08.30-19.10.44:644][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.92 sec)
+[2023.08.30-19.10.44:649][115]AssetCheck: New page: Asset Save: BP_downArrow
+[2023.08.30-19.10.44:649][115]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow
+[2023.08.30-19.10.45:600][160]BlueprintLog: New page: Compile BP_downArrow
+[2023.08.30-19.10.45:690][160]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.30-19.11.02:951][904]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow
+[2023.08.30-19.11.02:951][904]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.11.02:951][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.11.04:752][990]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.30-19.11.13:635][402]LogHttp: Warning: 00000660E2D26E00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA242ECF-47C7-DFA9-42CB-C38AFD45A037%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6cb46baf474d292e606049aa8f287b75%7Ce54d05d844a347f486ae726e47862b0e%7C2efe6c2d-a48c-4080-99be-53ca37210037&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.30-19.11.13:635][402]LogHttp: Warning: 00000660E2D26E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2023.08.30-19.11.13:635][402]LogHttp: Warning: 00000660E2D26E00: libcurl info message cache 0 (Found bundle for host: 0x6605e960630 [serially])
+[2023.08.30-19.11.13:635][402]LogHttp: Warning: 00000660E2D26E00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2023.08.30-19.11.13:635][402]LogHttp: Warning: 00000660E2D26E00: libcurl info message cache 2 (Closing connection 3)
+[2023.08.30-19.11.13:635][402]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA242ECF-47C7-DFA9-42CB-C38AFD45A037%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6cb46baf474d292e606049aa8f287b75%7Ce54d05d844a347f486ae726e47862b0e%7C2efe6c2d-a48c-4080-99be-53ca37210037&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.30-19.11.17:477][582]BlueprintLog: New page: Compile BP_leftArrow
+[2023.08.30-19.11.17:568][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.08.30-19.11.19:256][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.11.19:348][658]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_leftArrow
+[2023.08.30-19.11.19:349][658]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_leftArrow1F86B55F4230F95B26CD3B9356D92B8D.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_leftArrow.uasset'
+[2023.08.30-19.11.19:360][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.03 sec)
+[2023.08.30-19.11.19:365][658]AssetCheck: New page: Asset Save: BP_leftArrow
+[2023.08.30-19.11.19:365][658]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow
+[2023.08.30-19.11.36:406][503]Cmd: DELETE
+[2023.08.30-19.11.36:406][503]Cmd: ACTOR DELETE
+[2023.08.30-19.11.36:410][503]LogEditorActor: Deleted Actor: upArrow_C
+[2023.08.30-19.11.36:456][503]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.08.30-19.11.36:460][503]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA242ECF-47C7-DFA9-42CB-C38AFD45A037%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6cb46baf474d292e606049aa8f287b75%7Ce54d05d844a347f486ae726e47862b0e%7C2efe6c2d-a48c-4080-99be-53ca37210037&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 0 (Found bundle for host: 0x6605e960630 [serially])
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.204.22.207) port 443 (#1))
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: 00000660DF79F500: libcurl info message cache 7 (Closing connection 1)
+[2023.08.30-19.11.52:177][415]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAA242ECF-47C7-DFA9-42CB-C38AFD45A037%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=6cb46baf474d292e606049aa8f287b75%7Ce54d05d844a347f486ae726e47862b0e%7C2efe6c2d-a48c-4080-99be-53ca37210037&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.08.30-19.12.01:222][938]LogContentBrowser: Attempting asset rename: rightArrow -> BP_rightArrow
+[2023.08.30-19.12.01:248][938]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_rightArrow.SKEL_BP_rightArrow_C:UserConstructionScript' ref from Metadata '/Game/models/arrowSpawnables/rightArrow.PackageMetaData'
+[2023.08.30-19.12.01:248][938]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_rightArrow.SKEL_BP_rightArrow_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/rightArrow.PackageMetaData'
+[2023.08.30-19.12.01:249][938]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_rightArrow.SKEL_BP_rightArrow_C' ref from Metadata '/Game/models/arrowSpawnables/rightArrow.PackageMetaData'
+[2023.08.30-19.12.01:249][938]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow_C' ref from Metadata '/Game/models/arrowSpawnables/rightArrow.PackageMetaData'
+[2023.08.30-19.12.01:249][938]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/rightArrow.PackageMetaData'
+[2023.08.30-19.12.01:249][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.12.01:282][938]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.12.01:863][938]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_rightArrow
+[2023.08.30-19.12.01:863][938]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_rightArrowAE9813664A49850AF14C59A023E371E2.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_rightArrow.uasset'
+[2023.08.30-19.12.01:880][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 630 ms (total: 2.66 sec)
+[2023.08.30-19.12.01:928][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.08.30-19.12.01:962][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.08.30-19.12.02:001][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.08.30-19.12.02:008][938]AssetCheck: New page: Asset Save: BP_rightArrow
+[2023.08.30-19.12.02:008][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow
+[2023.08.30-19.12.12:681][558]LogContentBrowser: Attempting asset rename: upArrow -> BP_upArrow
+[2023.08.30-19.12.12:715][558]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_upArrow.BP_upArrow_C' ref from Metadata '/Game/models/arrowSpawnables/upArrow.PackageMetaData'
+[2023.08.30-19.12.12:715][558]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_upArrow.BP_upArrow:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/models/arrowSpawnables/upArrow.PackageMetaData'
+[2023.08.30-19.12.12:715][558]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_upArrow.BP_upArrow:EventGraph.K2Node_Event_2' ref from Metadata '/Game/models/arrowSpawnables/upArrow.PackageMetaData'
+[2023.08.30-19.12.12:715][558]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_upArrow.SKEL_BP_upArrow_C' ref from Metadata '/Game/models/arrowSpawnables/upArrow.PackageMetaData'
+[2023.08.30-19.12.12:715][558]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_upArrow.BP_upArrow_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/upArrow.PackageMetaData'
+[2023.08.30-19.12.12:715][558]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_upArrow.SKEL_BP_upArrow_C:UserConstructionScript' ref from Metadata '/Game/models/arrowSpawnables/upArrow.PackageMetaData'
+[2023.08.30-19.12.12:715][558]LogMetaData: Removing '/Game/models/arrowSpawnables/BP_upArrow.SKEL_BP_upArrow_C:ReceiveTick' ref from Metadata '/Game/models/arrowSpawnables/upArrow.PackageMetaData'
+[2023.08.30-19.12.12:719][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.12.12:773][558]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_upArrow
+[2023.08.30-19.12.12:773][558]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_upArrow6E568EC04F3331DC1B5AE7BD302CDAC5.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_upArrow.uasset'
+[2023.08.30-19.12.12:787][558]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/upArrow
+[2023.08.30-19.12.12:788][558]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/upArrowB6BDB267439090638522A6B8089F55AC.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/upArrow.uasset'
+[2023.08.30-19.12.12:802][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.74 sec)
+[2023.08.30-19.12.12:809][558]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.30-19.12.12:809][558]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow
+[2023.08.30-19.12.12:809][558]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/arrowSpawnables/upArrow.upArrow
+[2023.08.30-19.12.12:809][558]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/arrowSpawnables/upArrow.Default__upArrow_C
+[2023.08.30-19.12.12:809][558]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/models/arrowSpawnables/upArrow.upArrow_C
+[2023.08.30-19.12.12:823][559]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.12.17:828][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.08.30-19.12.19:700][819]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.30-19.12.19:884][819]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/models/arrowSpawnables/BP_Spline.BP_Spline
+	Asset Type: Blueprint
+[2023.08.30-19.12.20:857][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.08.30-19.12.20:933][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.08.30-19.12.20:964][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.08.30-19.12.20:997][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.08.30-19.12.30:948][390]Cmd: DELETE
+[2023.08.30-19.12.30:949][390]Cmd: ACTOR DELETE
+[2023.08.30-19.12.30:951][390]LogEditorActor: Deleted Actor: BP_rightArrow_C
+[2023.08.30-19.12.30:987][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.08.30-19.12.30:989][390]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2023.08.30-19.12.34:799][615]Cmd: DELETE
+[2023.08.30-19.12.34:799][615]Cmd: ACTOR DELETE
+[2023.08.30-19.12.34:802][615]LogEditorActor: Deleted Actor: BP_upArrow_C
+[2023.08.30-19.12.34:834][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.08.30-19.12.34:836][615]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2023.08.30-19.12.39:602][901]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.12.46:637][279]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.12.48:539][387]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.12.55:803][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow_C
+[2023.08.30-19.12.55:803][803]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow_C
+[2023.08.30-19.12.55:806][803]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow as actor: BP_leftArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_leftArrow_C_0
+[2023.08.30-19.12.55:809][803]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow as actor: BP_leftArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_leftArrow_C_0
+[2023.08.30-19.12.57:790][908]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow_C
+[2023.08.30-19.12.57:790][908]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow_C
+[2023.08.30-19.12.57:793][908]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow as actor: BP_leftArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_leftArrow_C_UAID_9C5A44750A406FA401_1145272882
+[2023.08.30-19.12.57:796][908]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow as actor: BP_leftArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_leftArrow_C_UAID_9C5A44750A406FA401_1145272882
+[2023.08.30-19.13.19:344][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow_C
+[2023.08.30-19.13.19:344][ 28]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow_C
+[2023.08.30-19.13.19:346][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow as actor: BP_rightArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_rightArrow_C_1
+[2023.08.30-19.13.19:349][ 28]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow as actor: BP_rightArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_rightArrow_C_1
+[2023.08.30-19.13.21:638][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow_C
+[2023.08.30-19.13.21:638][154]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow_C
+[2023.08.30-19.13.21:640][154]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow as actor: BP_rightArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_rightArrow_C_UAID_9C5A44750A406FA401_1169120883
+[2023.08.30-19.13.21:643][154]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow as actor: BP_rightArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_rightArrow_C_UAID_9C5A44750A406FA401_1169120883
+[2023.08.30-19.14.03:240][425]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.14.04:924][518]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.14.21:807][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow_C
+[2023.08.30-19.14.21:808][459]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow_C
+[2023.08.30-19.14.21:810][459]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow as actor: BP_upArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_upArrow_C_1
+[2023.08.30-19.14.21:813][459]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow as actor: BP_upArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_upArrow_C_1
+[2023.08.30-19.14.24:068][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow_C
+[2023.08.30-19.14.24:068][571]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow_C
+[2023.08.30-19.14.24:073][571]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow as actor: BP_upArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_upArrow_C_UAID_9C5A44750A406FA401_1231550884
+[2023.08.30-19.14.24:076][571]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow as actor: BP_upArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_upArrow_C_UAID_9C5A44750A406FA401_1231550884
+[2023.08.30-19.15.00:526][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.15.06:873][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow_C
+[2023.08.30-19.15.06:873][953]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow_C
+[2023.08.30-19.15.06:876][953]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow as actor: BP_downArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_downArrow_C_0
+[2023.08.30-19.15.06:880][953]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow as actor: BP_downArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_downArrow_C_0
+[2023.08.30-19.15.08:276][ 18]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow_C
+[2023.08.30-19.15.08:276][ 18]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow_C
+[2023.08.30-19.15.08:279][ 18]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow as actor: BP_downArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_downArrow_C_UAID_9C5A44750A406FA401_1275758885
+[2023.08.30-19.15.08:282][ 18]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow as actor: BP_downArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_downArrow_C_UAID_9C5A44750A406FA401_1275758885
+[2023.08.30-19.15.08:312][ 18]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.15.45:595][102]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.10:101][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.16.10:284][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.08.30-19.16.10:331][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.08.30-19.16.10:363][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.30-19.16.10:387][516]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/Arrow/A/2F/UXLWCOTU5LIE79IN3SDD4K
+[2023.08.30-19.16.10:387][516]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/UXLWCOTU5LIE79IN3SDD4K41531AFB4B83423F9828409A1CA3E668.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/Arrow/A/2F/UXLWCOTU5LIE79IN3SDD4K.uasset'
+[2023.08.30-19.16.10:392][516]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO
+[2023.08.30-19.16.10:393][516]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/1SQ13JA7IVZR742EXXEVTO75D309524B5E98325CC4EEA40A44B117.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO.uasset'
+[2023.08.30-19.16.10:398][516]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF
+[2023.08.30-19.16.10:398][516]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/IPH3YYR4EL4926INFO9AHF0B61DC5D4EE01E07CC5D2DB45D02E8B0.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF.uasset'
+[2023.08.30-19.16.10:403][516]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Arrow/9/8M/6FNVO0FX7WYK1UAQ52PZOT
+[2023.08.30-19.16.10:403][516]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/6FNVO0FX7WYK1UAQ52PZOT1B1D5B754BB48FA0DD8BA88110B87467.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/Arrow/9/8M/6FNVO0FX7WYK1UAQ52PZOT.uasset'
+[2023.08.30-19.16.10:408][516]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH
+[2023.08.30-19.16.10:409][516]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/LJKJOOLN9CXOC177PNNAJH98C6980A419A7A840973C59257900613.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH.uasset'
+[2023.08.30-19.16.10:424][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 324 ms (total: 3.07 sec)
+[2023.08.30-19.16.10:431][516]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.30-19.16.10:431][516]LogContentValidation: Display: Validating /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_rightArrow_C_UAID_9C5A44750A406FA401_1169120883
+[2023.08.30-19.16.10:431][516]LogContentValidation: Display: Validating /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_leftArrow_C_UAID_9C5A44750A406FA401_1145272882
+[2023.08.30-19.16.10:431][516]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/Arrow.Arrow:PersistentLevel.ActorFolder_UID_A10CCE77-456208E5-D33D0E88-3A3C84C4
+[2023.08.30-19.16.10:431][516]LogContentValidation: Display: Validating /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_upArrow_C_UAID_9C5A44750A406FA401_1231550884
+[2023.08.30-19.16.10:431][516]LogContentValidation: Display: Validating /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow_C /Game/Arrow.Arrow:PersistentLevel.BP_downArrow_C_UAID_9C5A44750A406FA401_1275758885
+[2023.08.30-19.16.11:794][593]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.30-19.16.11:804][593]LogContentBundle: [Arrow(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.30-19.16.11:808][593]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.30-19.16.11:808][593]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.30-19.16.11:808][593]LogWorldPartition: Display: GetPartitionedActors took 59 us (total: 1 ms)
+[2023.08.30-19.16.11:809][593]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 43 ms)
+[2023.08.30-19.16.11:812][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.30-19.16.11:812][593]PIE: New page: PIE session: Arrow (Aug 30, 2023, 9:16:11 AM)
+[2023.08.30-19.16.11:812][593]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arrow
+[2023.08.30-19.16.11:819][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006768s)
+[2023.08.30-19.16.11:819][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arrow.Arrow to /Game/UEDPIE_0_Arrow.Arrow (0.006828s)
+[2023.08.30-19.16.11:820][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.16.11:820][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.16.11:820][593]LogAIModule: Creating AISystem for world Arrow
+[2023.08.30-19.16.11:821][593]LogWorldPartition: ULevel::OnLevelLoaded(Arrow)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.30-19.16.11:821][593]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.30-19.16.11:821][593]LogWorldPartition: UWorldPartition::Initialize(Asset=Arrow, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.30-19.16.11:823][593]LogContentBundle: [Arrow(Standalone)] Creating new contrainer.
+[2023.08.30-19.16.11:823][593]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 19.5 sec)
+[2023.08.30-19.16.11:823][593]LogPlayLevel: PIE: World Init took: (0.004061s)
+[2023.08.30-19.16.11:873][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.08.30-19.16.11:874][593]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.08.30-19.16.11:874][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.30-19.16.11:874][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.30-19.16.11:874][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.30-19.16.11:874][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.30-19.16.11:874][593]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.30-19.16.11:874][593]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.30-19.16.11:874][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.30-19.16.11:874][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.30-19.16.11:875][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.30-19.16.11:875][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.30-19.16.11:875][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.30-19.16.11:877][593]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.30-19.16.11:918][593]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-XB910N Stereo)
+[2023.08.30-19.16.11:919][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.30-19.16.11:919][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.30-19.16.11:919][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.30-19.16.11:921][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.08.30-19.16.11:922][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.08.30-19.16.11:924][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.08.30-19.16.11:924][593]LogInit: FAudioDevice initialized with ID 24.
+[2023.08.30-19.16.11:924][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.08.30-19.16.11:924][593]LogAudio: Display: Audio Device (ID: 24) registered with world 'Arrow'.
+[2023.08.30-19.16.11:924][593]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.08.30-19.16.11:927][593]LogLoad: Game class is 'GameModeBase'
+[2023.08.30-19.16.11:927][593]LogWorld: Bringing World /Game/UEDPIE_0_Arrow.Arrow up for play (max tick rate 60) at 2023.08.30-14.16.11
+[2023.08.30-19.16.11:928][593]LogWorld: Bringing up level for play took: 0.000730
+[2023.08.30-19.16.11:930][593]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.08.30-19.16.11:932][593]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.08.30-19.16.11:932][593]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=590.000 Y=1530.000 Z=100.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.08.30-19.16.11:936][593]LogStreaming: Display: FlushAsyncLoading(-1): 45 QueuedPackages, 0 AsyncPackages
+[2023.08.30-19.16.12:163][593]LogTexture: Display: Waiting for textures to be ready 0/480 (/Memory/UEDPIE_0_Arrow_MainGrid_L0_X-3_Y2_InstanceOf_/Game/__ExternalActors__/Arrow/5/HC/54QGO7GVZ7A59HYWSC27AT) ...
+[2023.08.30-19.16.12:288][593]PIE: Server logged in
+[2023.08.30-19.16.12:289][593]PIE: Play in editor total start time 0.485 seconds.
+[2023.08.30-19.16.12:300][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:301][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:301][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:302][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:302][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:303][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:303][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:304][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:304][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH' is in a memory-only mount point.
+[2023.08.30-19.16.12:305][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO' is in a memory-only mount point.
+[2023.08.30-19.16.12:306][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF' is in a memory-only mount point.
+[2023.08.30-19.16.12:310][593]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:469][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:470][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:471][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:471][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:472][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:472][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:473][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:473][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.12:474][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH' is in a memory-only mount point.
+[2023.08.30-19.16.12:475][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO' is in a memory-only mount point.
+[2023.08.30-19.16.12:475][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF' is in a memory-only mount point.
+[2023.08.30-19.16.12:479][594]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.20:203][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.16.20:203][ 43]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arrow
+[2023.08.30-19.16.20:219][ 43]LogWorld: UWorld::CleanupWorld for Arrow, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.16.20:219][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.16.20:219][ 43]LogContentBundle: [Arrow(Standalone)] Deleting container.
+[2023.08.30-19.16.20:224][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.30-19.16.20:229][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.16.20:265][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.16.20:266][ 43]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.08.30-19.16.20:266][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.30-19.16.20:268][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.30-19.16.20:282][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.08.30-19.16.20:308][ 43]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.20:320][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2023.08.30-19.16.20:336][ 44]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.27:106][414]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.08.30-19.16.28:372][481]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.30-19.16.28:380][481]LogContentBundle: [Arrow(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.30-19.16.28:382][481]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.30-19.16.28:382][481]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.30-19.16.28:382][481]LogWorldPartition: Display: GetPartitionedActors took 39 us (total: 1 ms)
+[2023.08.30-19.16.28:383][481]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 44 ms)
+[2023.08.30-19.16.28:384][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.30-19.16.28:384][481]PIE: New page: PIE session: Arrow (Aug 30, 2023, 9:16:28 AM)
+[2023.08.30-19.16.28:384][481]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arrow
+[2023.08.30-19.16.28:390][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005888s)
+[2023.08.30-19.16.28:390][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arrow.Arrow to /Game/UEDPIE_0_Arrow.Arrow (0.005925s)
+[2023.08.30-19.16.28:390][481]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.16.28:391][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.16.28:391][481]LogAIModule: Creating AISystem for world Arrow
+[2023.08.30-19.16.28:391][481]LogWorldPartition: ULevel::OnLevelLoaded(Arrow)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.30-19.16.28:391][481]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.30-19.16.28:391][481]LogWorldPartition: UWorldPartition::Initialize(Asset=Arrow, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.30-19.16.28:393][481]LogContentBundle: [Arrow(Standalone)] Creating new contrainer.
+[2023.08.30-19.16.28:393][481]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 19.5 sec)
+[2023.08.30-19.16.28:393][481]LogPlayLevel: PIE: World Init took: (0.002819s)
+[2023.08.30-19.16.28:424][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.08.30-19.16.28:426][481]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.08.30-19.16.28:426][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.30-19.16.28:426][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.30-19.16.28:426][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.30-19.16.28:426][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.30-19.16.28:426][481]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.30-19.16.28:426][481]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.30-19.16.28:426][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.30-19.16.28:426][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.30-19.16.28:426][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.30-19.16.28:426][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.30-19.16.28:426][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.30-19.16.28:428][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.30-19.16.28:461][481]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-XB910N Stereo)
+[2023.08.30-19.16.28:461][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.30-19.16.28:461][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.30-19.16.28:461][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.30-19.16.28:461][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.08.30-19.16.28:461][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.08.30-19.16.28:463][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.08.30-19.16.28:463][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.08.30-19.16.28:463][481]LogInit: FAudioDevice initialized with ID 25.
+[2023.08.30-19.16.28:463][481]LogAudio: Display: Audio Device (ID: 25) registered with world 'Arrow'.
+[2023.08.30-19.16.28:463][481]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.08.30-19.16.28:467][481]LogLoad: Game class is 'GameModeBase'
+[2023.08.30-19.16.28:467][481]LogWorld: Bringing World /Game/UEDPIE_0_Arrow.Arrow up for play (max tick rate 60) at 2023.08.30-14.16.28
+[2023.08.30-19.16.28:467][481]LogWorld: Bringing up level for play took: 0.000643
+[2023.08.30-19.16.28:470][481]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2023.08.30-19.16.28:471][481]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.08.30-19.16.28:471][481]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=590.000 Y=1730.000 Z=330.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.08.30-19.16.28:475][481]LogStreaming: Display: FlushAsyncLoading(-1): 45 QueuedPackages, 0 AsyncPackages
+[2023.08.30-19.16.28:743][481]PIE: Server logged in
+[2023.08.30-19.16.28:745][481]PIE: Play in editor total start time 0.365 seconds.
+[2023.08.30-19.16.28:771][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:772][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:773][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:773][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:774][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:774][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:774][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:775][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:775][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH' is in a memory-only mount point.
+[2023.08.30-19.16.28:776][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO' is in a memory-only mount point.
+[2023.08.30-19.16.28:776][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF' is in a memory-only mount point.
+[2023.08.30-19.16.28:779][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:904][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:904][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:905][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:906][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:907][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:907][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:908][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:909][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.28:910][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH' is in a memory-only mount point.
+[2023.08.30-19.16.28:911][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO' is in a memory-only mount point.
+[2023.08.30-19.16.28:913][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF' is in a memory-only mount point.
+[2023.08.30-19.16.28:918][482]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.35:653][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.16.35:653][872]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arrow
+[2023.08.30-19.16.35:671][872]LogWorld: UWorld::CleanupWorld for Arrow, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.16.35:671][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.16.35:672][872]LogContentBundle: [Arrow(Standalone)] Deleting container.
+[2023.08.30-19.16.35:677][872]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.30-19.16.35:682][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.16.35:726][872]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.16.35:726][872]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.08.30-19.16.35:726][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.08.30-19.16.35:728][872]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.08.30-19.16.35:743][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.08.30-19.16.35:784][872]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.35:803][873]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.08.30-19.16.35:825][873]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:444][565]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.30-19.16.47:453][565]LogContentBundle: [Arrow(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.30-19.16.47:456][565]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.30-19.16.47:456][565]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.30-19.16.47:456][565]LogWorldPartition: Display: GetPartitionedActors took 42 us (total: 1 ms)
+[2023.08.30-19.16.47:457][565]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 46 ms)
+[2023.08.30-19.16.47:458][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.30-19.16.47:458][565]PIE: New page: PIE session: Arrow (Aug 30, 2023, 9:16:47 AM)
+[2023.08.30-19.16.47:458][565]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arrow
+[2023.08.30-19.16.47:465][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006572s)
+[2023.08.30-19.16.47:465][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arrow.Arrow to /Game/UEDPIE_0_Arrow.Arrow (0.006610s)
+[2023.08.30-19.16.47:465][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.16.47:465][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.16.47:466][565]LogAIModule: Creating AISystem for world Arrow
+[2023.08.30-19.16.47:467][565]LogWorldPartition: ULevel::OnLevelLoaded(Arrow)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.30-19.16.47:467][565]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.30-19.16.47:467][565]LogWorldPartition: UWorldPartition::Initialize(Asset=Arrow, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.30-19.16.47:471][565]LogContentBundle: [Arrow(Standalone)] Creating new contrainer.
+[2023.08.30-19.16.47:471][565]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 19.6 sec)
+[2023.08.30-19.16.47:471][565]LogPlayLevel: PIE: World Init took: (0.006130s)
+[2023.08.30-19.16.47:515][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.08.30-19.16.47:516][565]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.08.30-19.16.47:516][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.30-19.16.47:516][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.30-19.16.47:516][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.30-19.16.47:516][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.30-19.16.47:516][565]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.30-19.16.47:516][565]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.30-19.16.47:516][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.30-19.16.47:516][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.30-19.16.47:517][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.30-19.16.47:517][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.30-19.16.47:517][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.30-19.16.47:519][565]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.30-19.16.47:577][565]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-XB910N Stereo)
+[2023.08.30-19.16.47:577][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.30-19.16.47:577][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.30-19.16.47:577][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.30-19.16.47:577][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.08.30-19.16.47:577][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.08.30-19.16.47:580][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.08.30-19.16.47:580][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.08.30-19.16.47:580][565]LogInit: FAudioDevice initialized with ID 26.
+[2023.08.30-19.16.47:580][565]LogAudio: Display: Audio Device (ID: 26) registered with world 'Arrow'.
+[2023.08.30-19.16.47:580][565]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.08.30-19.16.47:582][565]LogLoad: Game class is 'GameModeBase'
+[2023.08.30-19.16.47:583][565]LogWorld: Bringing World /Game/UEDPIE_0_Arrow.Arrow up for play (max tick rate 60) at 2023.08.30-14.16.47
+[2023.08.30-19.16.47:583][565]LogWorld: Bringing up level for play took: 0.000688
+[2023.08.30-19.16.47:585][565]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.08.30-19.16.47:586][565]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.08.30-19.16.47:586][565]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=590.000 Y=1730.000 Z=330.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.08.30-19.16.47:589][565]LogStreaming: Display: FlushAsyncLoading(-1): 45 QueuedPackages, 0 AsyncPackages
+[2023.08.30-19.16.47:882][565]PIE: Server logged in
+[2023.08.30-19.16.47:882][565]PIE: Play in editor total start time 0.43 seconds.
+[2023.08.30-19.16.47:892][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:892][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:892][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:893][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:893][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:894][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:894][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:894][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.47:895][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH' is in a memory-only mount point.
+[2023.08.30-19.16.47:895][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO' is in a memory-only mount point.
+[2023.08.30-19.16.47:896][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF' is in a memory-only mount point.
+[2023.08.30-19.16.47:898][565]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:014][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:015][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:016][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:016][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:017][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:017][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:018][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:018][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.48:019][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/E/SU/LJKJOOLN9CXOC177PNNAJH' is in a memory-only mount point.
+[2023.08.30-19.16.48:020][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/C/6N/1SQ13JA7IVZR742EXXEVTO' is in a memory-only mount point.
+[2023.08.30-19.16.48:020][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X0_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/C2/IPH3YYR4EL4926INFO9AHF' is in a memory-only mount point.
+[2023.08.30-19.16.48:024][566]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.53:873][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.16.53:873][915]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arrow
+[2023.08.30-19.16.53:889][915]LogWorld: UWorld::CleanupWorld for Arrow, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.16.53:889][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.16.53:889][915]LogContentBundle: [Arrow(Standalone)] Deleting container.
+[2023.08.30-19.16.53:894][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.30-19.16.53:899][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.16.53:935][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.16.53:935][915]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.08.30-19.16.53:935][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.08.30-19.16.53:937][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.08.30-19.16.53:950][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.08.30-19.16.53:990][915]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.16.54:006][916]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.08.30-19.16.54:028][916]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
