@@ -3450,3 +3450,309 @@ GroupActor
 [2023.08.30-19.02.33:124][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
 [2023.08.30-19.02.33:148][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2023.08.30-19.02.33:159][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.40 sec)
+[2023.08.30-19.05.00:198][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.08.30-19.05.03:053][466]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.30-19.05.03:458][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.08.30-19.05.03:484][466]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.08.30-19.05.03:512][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.08.30-19.05.06:108][595]LogContentBrowser: Deferred new asset file creation: upArrow1
+[2023.08.30-19.05.06:144][595]LogContentBrowser: Creating deferred item: upArrow1
+[2023.08.30-19.05.06:176][596]LogContentBrowser: Renaming the item being created (Deferred Item: upArrow1).
+[2023.08.30-19.05.09:779][809]LogContentBrowser: Attempting asset rename: upArrow1 -> rightArrow
+[2023.08.30-19.05.09:981][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.08.30-19.05.10:021][809]LogContentBrowser: End creating deferred item upArrow1
+[2023.08.30-19.05.10:023][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.05.29:838][822]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow
+[2023.08.30-19.05.29:838][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.05.29:838][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.05.32:092][932]LogViewport: Scene viewport resized to 1204x647, mode Windowed.
+[2023.08.30-19.05.44:288][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.30-19.05.44:372][514]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/rightArrow
+[2023.08.30-19.05.44:372][514]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/rightArrowCE5D98C046EDC09967599EBA6279A277.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/rightArrow.uasset'
+[2023.08.30-19.05.44:390][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.51 sec)
+[2023.08.30-19.05.44:400][514]AssetCheck: New page: Asset Save: rightArrow
+[2023.08.30-19.05.44:400][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow
+[2023.08.30-19.05.45:682][576]BlueprintLog: New page: Compile rightArrow
+[2023.08.30-19.05.45:770][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.08.30-19.05.59:215][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/rightArrow.rightArrow_C
+[2023.08.30-19.05.59:215][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/rightArrow.rightArrow_C
+[2023.08.30-19.05.59:218][316]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow as actor: rightArrow_C /Game/Arrow.Arrow:PersistentLevel.rightArrow_C_0
+[2023.08.30-19.05.59:220][316]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow as actor: rightArrow_C /Game/Arrow.Arrow:PersistentLevel.rightArrow_C_0
+[2023.08.30-19.06.01:329][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/rightArrow.rightArrow_C
+[2023.08.30-19.06.01:329][435]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/models/arrowSpawnables/rightArrow.rightArrow_C
+[2023.08.30-19.06.01:334][435]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow as actor: rightArrow_C /Game/Arrow.Arrow:PersistentLevel.rightArrow_C_UAID_9C5A44750A406EA401_1802553705
+[2023.08.30-19.06.01:338][435]LogActorFactory: Actor Factory spawned Blueprint /Game/models/arrowSpawnables/rightArrow.rightArrow as actor: rightArrow_C /Game/Arrow.Arrow:PersistentLevel.rightArrow_C_UAID_9C5A44750A406EA401_1802553705
+[2023.08.30-19.06.01:376][435]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.19:825][422]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.30-19.06.19:834][422]LogContentBundle: [Arrow(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.30-19.06.19:837][422]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.30-19.06.19:837][422]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.30-19.06.19:837][422]LogWorldPartition: Display: GetPartitionedActors took 57 us (total: 1 ms)
+[2023.08.30-19.06.19:837][422]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 40 ms)
+[2023.08.30-19.06.19:838][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.30-19.06.19:838][422]PIE: New page: PIE session: Arrow (Aug 30, 2023, 9:06:19 AM)
+[2023.08.30-19.06.19:838][422]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arrow
+[2023.08.30-19.06.19:847][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008889s)
+[2023.08.30-19.06.19:847][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arrow.Arrow to /Game/UEDPIE_0_Arrow.Arrow (0.008926s)
+[2023.08.30-19.06.19:847][422]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.06.19:847][422]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.06.19:848][422]LogAIModule: Creating AISystem for world Arrow
+[2023.08.30-19.06.19:848][422]LogWorldPartition: ULevel::OnLevelLoaded(Arrow)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.30-19.06.19:848][422]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.30-19.06.19:848][422]LogWorldPartition: UWorldPartition::Initialize(Asset=Arrow, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.30-19.06.19:850][422]LogContentBundle: [Arrow(Standalone)] Creating new contrainer.
+[2023.08.30-19.06.19:850][422]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 19.5 sec)
+[2023.08.30-19.06.19:850][422]LogPlayLevel: PIE: World Init took: (0.003310s)
+[2023.08.30-19.06.19:886][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.30-19.06.19:887][422]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.08.30-19.06.19:887][422]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.30-19.06.19:887][422]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.30-19.06.19:887][422]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.30-19.06.19:887][422]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.30-19.06.19:887][422]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.30-19.06.19:887][422]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.30-19.06.19:887][422]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.30-19.06.19:887][422]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.30-19.06.19:888][422]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.30-19.06.19:888][422]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.30-19.06.19:888][422]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.30-19.06.19:891][422]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.30-19.06.19:926][422]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-XB910N Stereo)
+[2023.08.30-19.06.19:926][422]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.30-19.06.19:926][422]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.30-19.06.19:926][422]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.30-19.06.19:928][422]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.08.30-19.06.19:928][422]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.08.30-19.06.19:930][422]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.08.30-19.06.19:930][422]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.08.30-19.06.19:930][422]LogInit: FAudioDevice initialized with ID 21.
+[2023.08.30-19.06.19:930][422]LogAudio: Display: Audio Device (ID: 21) registered with world 'Arrow'.
+[2023.08.30-19.06.19:930][422]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.08.30-19.06.19:933][422]LogLoad: Game class is 'GameModeBase'
+[2023.08.30-19.06.19:933][422]LogWorld: Bringing World /Game/UEDPIE_0_Arrow.Arrow up for play (max tick rate 60) at 2023.08.30-14.06.19
+[2023.08.30-19.06.19:933][422]LogWorld: Bringing up level for play took: 0.000704
+[2023.08.30-19.06.19:936][422]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.08.30-19.06.19:937][422]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.08.30-19.06.19:937][422]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=590.000 Y=1530.000 Z=100.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.08.30-19.06.19:952][422]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.08.30-19.06.20:247][422]PIE: Server logged in
+[2023.08.30-19.06.20:247][422]PIE: Play in editor total start time 0.414 seconds.
+[2023.08.30-19.06.20:258][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:259][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:260][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/IT/O91KXHX91P2JOZQO2CC8J3' is in a memory-only mount point.
+[2023.08.30-19.06.20:260][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:261][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:261][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:262][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:263][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:263][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:266][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:360][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:361][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:361][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:362][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:362][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:363][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:364][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/IT/O91KXHX91P2JOZQO2CC8J3' is in a memory-only mount point.
+[2023.08.30-19.06.20:365][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:365][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:366][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.20:368][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.29:103][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.06.29:103][931]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arrow
+[2023.08.30-19.06.29:128][931]LogWorld: UWorld::CleanupWorld for Arrow, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.06.29:128][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.06.29:129][931]LogContentBundle: [Arrow(Standalone)] Deleting container.
+[2023.08.30-19.06.29:134][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.30-19.06.29:144][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.06.29:184][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.30-19.06.29:188][931]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.08.30-19.06.29:188][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.30-19.06.29:190][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.30-19.06.29:195][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.06.29:204][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.08.30-19.06.29:240][931]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.29:254][932]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.08.30-19.06.29:275][932]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:208][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.30-19.06.45:219][869]LogContentBundle: [Arrow(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.30-19.06.45:221][869]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.30-19.06.45:221][869]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.30-19.06.45:221][869]LogWorldPartition: Display: GetPartitionedActors took 34 us (total: 1 ms)
+[2023.08.30-19.06.45:222][869]LogWorldPartition: Display: GenerateStreaming took 925 us (total: 40 ms)
+[2023.08.30-19.06.45:225][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.30-19.06.45:225][869]PIE: New page: PIE session: Arrow (Aug 30, 2023, 9:06:45 AM)
+[2023.08.30-19.06.45:225][869]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arrow
+[2023.08.30-19.06.45:233][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007795s)
+[2023.08.30-19.06.45:233][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arrow.Arrow to /Game/UEDPIE_0_Arrow.Arrow (0.007831s)
+[2023.08.30-19.06.45:233][869]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.06.45:233][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.06.45:233][869]LogAIModule: Creating AISystem for world Arrow
+[2023.08.30-19.06.45:234][869]LogWorldPartition: ULevel::OnLevelLoaded(Arrow)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.30-19.06.45:234][869]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.30-19.06.45:234][869]LogWorldPartition: UWorldPartition::Initialize(Asset=Arrow, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.30-19.06.45:235][869]LogContentBundle: [Arrow(Standalone)] Creating new contrainer.
+[2023.08.30-19.06.45:235][869]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 19.5 sec)
+[2023.08.30-19.06.45:235][869]LogPlayLevel: PIE: World Init took: (0.002668s)
+[2023.08.30-19.06.45:265][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.08.30-19.06.45:266][869]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.08.30-19.06.45:266][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.30-19.06.45:266][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.30-19.06.45:266][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.30-19.06.45:267][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.30-19.06.45:267][869]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.30-19.06.45:267][869]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.30-19.06.45:267][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.30-19.06.45:267][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.30-19.06.45:268][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.30-19.06.45:268][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.30-19.06.45:268][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.30-19.06.45:270][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.30-19.06.45:302][869]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-XB910N Stereo)
+[2023.08.30-19.06.45:302][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.30-19.06.45:302][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.30-19.06.45:302][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.30-19.06.45:302][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.08.30-19.06.45:302][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.08.30-19.06.45:304][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.08.30-19.06.45:305][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.08.30-19.06.45:305][869]LogInit: FAudioDevice initialized with ID 22.
+[2023.08.30-19.06.45:305][869]LogAudio: Display: Audio Device (ID: 22) registered with world 'Arrow'.
+[2023.08.30-19.06.45:305][869]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.08.30-19.06.45:307][869]LogLoad: Game class is 'GameModeBase'
+[2023.08.30-19.06.45:308][869]LogWorld: Bringing World /Game/UEDPIE_0_Arrow.Arrow up for play (max tick rate 60) at 2023.08.30-14.06.45
+[2023.08.30-19.06.45:308][869]LogWorld: Bringing up level for play took: 0.000695
+[2023.08.30-19.06.45:310][869]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.08.30-19.06.45:311][869]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.08.30-19.06.45:311][869]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=590.000 Y=1530.000 Z=100.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.08.30-19.06.45:324][869]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.08.30-19.06.45:597][869]PIE: Server logged in
+[2023.08.30-19.06.45:598][869]PIE: Play in editor total start time 0.379 seconds.
+[2023.08.30-19.06.45:608][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:609][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:610][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/IT/O91KXHX91P2JOZQO2CC8J3' is in a memory-only mount point.
+[2023.08.30-19.06.45:610][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:611][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:611][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:612][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:612][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:612][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:615][869]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:712][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:713][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:713][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:714][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:714][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:715][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:715][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '/Memory/UEDPIE_0_Arrow_MainGrid_L0_X-1_Y0_InstanceOf_/Game/__ExternalActors__/Arrow/B/IT/O91KXHX91P2JOZQO2CC8J3' is in a memory-only mount point.
+[2023.08.30-19.06.45:716][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:717][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:717][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.45:720][870]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.48:952][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.06.48:953][ 53]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arrow
+[2023.08.30-19.06.48:973][ 53]LogWorld: UWorld::CleanupWorld for Arrow, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.06.48:973][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.06.48:973][ 53]LogContentBundle: [Arrow(Standalone)] Deleting container.
+[2023.08.30-19.06.48:978][ 53]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.30-19.06.48:984][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.06.49:022][ 53]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.30-19.06.49:023][ 53]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.08.30-19.06.49:023][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.30-19.06.49:025][ 53]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.30-19.06.49:030][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.06.49:039][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.08.30-19.06.49:078][ 53]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.49:088][ 54]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.08.30-19.06.49:110][ 54]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:138][175]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.30-19.06.51:154][175]LogContentBundle: [Arrow(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.08.30-19.06.51:157][175]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.30-19.06.51:157][175]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.30-19.06.51:157][175]LogWorldPartition: Display: GetPartitionedActors took 51 us (total: 1 ms)
+[2023.08.30-19.06.51:158][175]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 42 ms)
+[2023.08.30-19.06.51:159][175]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.30-19.06.51:159][175]PIE: New page: PIE session: Arrow (Aug 30, 2023, 9:06:51 AM)
+[2023.08.30-19.06.51:159][175]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Arrow
+[2023.08.30-19.06.51:168][175]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008637s)
+[2023.08.30-19.06.51:168][175]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Arrow.Arrow to /Game/UEDPIE_0_Arrow.Arrow (0.008673s)
+[2023.08.30-19.06.51:168][175]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.30-19.06.51:168][175]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.30-19.06.51:169][175]LogAIModule: Creating AISystem for world Arrow
+[2023.08.30-19.06.51:169][175]LogWorldPartition: ULevel::OnLevelLoaded(Arrow)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.08.30-19.06.51:169][175]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.30-19.06.51:169][175]LogWorldPartition: UWorldPartition::Initialize(Asset=Arrow, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.30-19.06.51:171][175]LogContentBundle: [Arrow(Standalone)] Creating new contrainer.
+[2023.08.30-19.06.51:171][175]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 19.5 sec)
+[2023.08.30-19.06.51:171][175]LogPlayLevel: PIE: World Init took: (0.003193s)
+[2023.08.30-19.06.51:202][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.08.30-19.06.51:203][175]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.08.30-19.06.51:203][175]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.30-19.06.51:203][175]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.30-19.06.51:203][175]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.30-19.06.51:203][175]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.30-19.06.51:203][175]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.30-19.06.51:203][175]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.30-19.06.51:203][175]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.30-19.06.51:203][175]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.30-19.06.51:204][175]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.30-19.06.51:204][175]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.30-19.06.51:204][175]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.30-19.06.51:206][175]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.30-19.06.51:242][175]LogAudioMixer: Display: Using Audio Hardware Device Headphones (WH-XB910N Stereo)
+[2023.08.30-19.06.51:242][175]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.30-19.06.51:242][175]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.30-19.06.51:242][175]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.30-19.06.51:242][175]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.08.30-19.06.51:242][175]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.08.30-19.06.51:245][175]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.08.30-19.06.51:245][175]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.08.30-19.06.51:245][175]LogInit: FAudioDevice initialized with ID 23.
+[2023.08.30-19.06.51:245][175]LogAudio: Display: Audio Device (ID: 23) registered with world 'Arrow'.
+[2023.08.30-19.06.51:245][175]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.08.30-19.06.51:247][175]LogLoad: Game class is 'GameModeBase'
+[2023.08.30-19.06.51:248][175]LogWorld: Bringing World /Game/UEDPIE_0_Arrow.Arrow up for play (max tick rate 60) at 2023.08.30-14.06.51
+[2023.08.30-19.06.51:248][175]LogWorld: Bringing up level for play took: 0.000607
+[2023.08.30-19.06.51:250][175]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.08.30-19.06.51:251][175]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(40), CellsToLoad(0), CellsToUnload(0)
+[2023.08.30-19.06.51:251][175]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=590.000 Y=1530.000 Z=100.000,P=0.000000 Y=0.000000 R=-0.000000
+[2023.08.30-19.06.51:266][175]LogStreaming: Display: FlushAsyncLoading(-1): 40 QueuedPackages, 0 AsyncPackages
+[2023.08.30-19.06.51:560][175]PIE: Server logged in
+[2023.08.30-19.06.51:560][175]PIE: Play in editor total start time 0.406 seconds.
+[2023.08.30-19.06.51:573][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:574][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:575][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:575][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:576][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:576][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:577][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:577][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:578][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:578][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:581][175]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:680][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:681][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:681][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:682][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:683][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:684][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:685][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:686][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:687][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:687][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.51:690][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.54:103][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.06.54:103][317]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Arrow
+[2023.08.30-19.06.54:122][317]LogWorld: UWorld::CleanupWorld for Arrow, bSessionEnded=true, bCleanupResources=true
+[2023.08.30-19.06.54:122][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.06.54:122][317]LogContentBundle: [Arrow(Standalone)] Deleting container.
+[2023.08.30-19.06.54:127][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.30-19.06.54:132][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.30-19.06.54:165][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.30-19.06.54:165][317]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.08.30-19.06.54:165][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.30-19.06.54:167][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.30-19.06.54:181][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.08.30-19.06.54:219][317]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.30-19.06.54:230][318]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.08.30-19.06.54:256][318]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
