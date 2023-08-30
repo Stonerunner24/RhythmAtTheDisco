@@ -18,30 +18,30 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.2-CL-26001984"
 LogCsvProfiler: Display: Metadata set : engineversion="5.2.1-26001984+++UE5+Release-5.2"
-LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.2134] "
-LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|12th Gen Intel(R) Core(TM) i7-12700H"
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.3324] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
-LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/elico/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco.uproject -EpicPortal -epicusername=Stonerunner24 -epicuserid=208516d6b50840d3a5857796753aa25d -epiclocale=en -epicsandboxid=ue""
-LogCsvProfiler: Display: Metadata set : loginid="96a5ea934b1e849ed1e39f85a2b7b4ff"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\minec\Desktop\teamGameProgrammingShit\Game 1\RhythmAtTheDisco\RhythmAtTheDisco\RhythmAtTheDisco.uproject"""
+LogCsvProfiler: Display: Metadata set : loginid="6cb46baf474d292e606049aa8f287b75"
 LogCsvProfiler: Display: Metadata set : llm="0"
 LogStats: Stats thread started at 0.318733
 LogPluginManager: Adding extension module BinkMediaPlayer from BinkMedia_HoloLens to BinkMedia
 
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-4B342D3B403E6098C247D29863EFB8D5
+         Session CrashGUID >   UECC-Windows-7D4CAB044ED9E7FD934930B29098B217
          Session CrashGUID >====================================================
-LogConfig: Display: Loading VulkanPC ini files took 0.07 seconds
-LogConfig: Display: Loading Mac ini files took 0.07 seconds
-LogConfig: Display: Loading IOS ini files took 0.07 seconds
-LogConfig: Display: Loading Android ini files took 0.07 seconds
-LogConfig: Display: Loading HoloLens ini files took 0.07 seconds
-LogConfig: Display: Loading Windows ini files took 0.08 seconds
-LogConfig: Display: Loading Unix ini files took 0.08 seconds
+LogConfig: Display: Loading IOS ini files took 0.08 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.09 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading Android ini files took 0.10 seconds
+LogConfig: Display: Loading Linux ini files took 0.13 seconds
+LogConfig: Display: Loading Mac ini files took 0.13 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.11 seconds
 LogConfig: Display: Loading TVOS ini files took 0.08 seconds
-LogConfig: Display: Loading LinuxArm64 ini files took 0.09 seconds
-LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin EnhancedInput
 LogPluginManager: Found config from plugin[EnhancedInput] Input
@@ -181,10 +181,10 @@ LogPluginManager: Mounting Engine plugin GeometryFlow
 LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 LogPluginManager: Mounting Engine plugin MeshLODToolset
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
-LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin PlatformCrypto
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
 LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin SkeletalReduction
 LogPluginManager: Mounting Engine plugin ToolPresets
 LogPluginManager: Mounting Engine plugin UVEditor
@@ -246,6 +246,7 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Virtual
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Interchange/Runtime/Content/' mounted to '/Interchange/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
@@ -279,14 +280,14 @@ LogInit: Build: ++UE5+Release-5.2-CL-26001984
 LogInit: Engine Version: 5.2.1-26001984+++UE5+Release-5.2
 LogInit: Compatible Engine Version: 5.2.0-25360045+++UE5+Release-5.2
 LogInit: Net CL: 25360045
-LogInit: OS: Windows 11 (22H2) [10.0.22621.2134] (), CPU: 12th Gen Intel(R) Core(TM) i7-12700H, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: OS: Windows 10 (22H2) [10.0.19045.3324] (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 1660 Ti
 LogInit: Compiled (64-bit): Jun 15 2023 04:29:42
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.29.30151.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE5+Release-5.2
-LogInit: Command Line: -EpicPortal -epicusername=Stonerunner24 -epicuserid=208516d6b50840d3a5857796753aa25d -epiclocale=en -epicsandboxid=ue
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64/
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64/
 LogInit: Allocator: Mimalloc
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 35
