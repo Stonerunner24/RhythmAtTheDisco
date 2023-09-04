@@ -6,6 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/arrowSpawnManager.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_downArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_leftArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_rightArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_upArrow.uasset",
 				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/MusicStage.umap",
 				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/StartButton.uasset",
 				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/LevelBlueprint/2/4N/QOI1PGN0G8O3RPSRALPVG8.uasset",

@@ -11199,3 +11199,64 @@ Script Stack (0 frames) :
 [2023.09.04-19.30.44:850][390]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.04-19.31.49:064][669]BlueprintLog: New page: Compile arrowSpawnManager
 [2023.09.04-19.31.49:143][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.09.04-19.36.11:721][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.04-19.36.11:723][298]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.026
+[2023.09.04-19.36.11:723][298]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/models/arrowSpawnables/arrowSpawnManager] ([2] browsable assets)...
+[2023.09.04-19.36.11:723][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/arrowSpawnables/arrowSpawnManager]
+[2023.09.04-19.36.11:737][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/models/arrowSpawnables/arrowSpawnManager_Auto2
+[2023.09.04-19.36.11:738][298]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/arrowSpawnManager_Auto2199D1BC74AFBC146349B66990CA06233.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Autosaves/Game/models/arrowSpawnables/arrowSpawnManager_Auto2.uasset'
+[2023.09.04-19.36.11:740][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/arrowSpawnables/BP_downArrow] ([2] browsable assets)...
+[2023.09.04-19.36.11:813][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow]
+[2023.09.04-19.36.11:813][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/arrowSpawnables/BP_downArrow]
+[2023.09.04-19.36.11:823][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/models/arrowSpawnables/BP_downArrow_Auto2
+[2023.09.04-19.36.11:823][298]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_downArrow_Auto2CF145B5646765D254D1B8BB0C5EA2066.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Autosaves/Game/models/arrowSpawnables/BP_downArrow_Auto2.uasset'
+[2023.09.04-19.36.11:824][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/arrowSpawnables/BP_leftArrow] ([2] browsable assets)...
+[2023.09.04-19.36.11:865][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow]
+[2023.09.04-19.36.11:865][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/arrowSpawnables/BP_leftArrow]
+[2023.09.04-19.36.11:874][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/models/arrowSpawnables/BP_leftArrow_Auto2
+[2023.09.04-19.36.11:874][298]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_leftArrow_Auto21EDC817A4587B158FB0755A133E37F59.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Autosaves/Game/models/arrowSpawnables/BP_leftArrow_Auto2.uasset'
+[2023.09.04-19.36.11:876][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/arrowSpawnables/BP_rightArrow] ([2] browsable assets)...
+[2023.09.04-19.36.11:914][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow]
+[2023.09.04-19.36.11:915][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/arrowSpawnables/BP_rightArrow]
+[2023.09.04-19.36.11:924][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/models/arrowSpawnables/BP_rightArrow_Auto2
+[2023.09.04-19.36.11:924][298]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_rightArrow_Auto2B512130F4F30FE88C237AAA60EFB41AA.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Autosaves/Game/models/arrowSpawnables/BP_rightArrow_Auto2.uasset'
+[2023.09.04-19.36.11:926][298]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/models/arrowSpawnables/BP_upArrow] ([2] browsable assets)...
+[2023.09.04-19.36.11:963][298]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow]
+[2023.09.04-19.36.11:963][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/arrowSpawnables/BP_upArrow]
+[2023.09.04-19.36.11:972][298]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/models/arrowSpawnables/BP_upArrow_Auto2
+[2023.09.04-19.36.11:972][298]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_upArrow_Auto2770891FE4E07C6D404E4F48872F83B21.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Autosaves/Game/models/arrowSpawnables/BP_upArrow_Auto2.uasset'
+[2023.09.04-19.36.11:973][298]LogFileHelpers: Auto-saving content packages took 0.250
+[2023.09.04-19.38.53:982][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.09.04-19.38.53:996][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-19.38.59:139][599]LogSlate: Window 'Save Level As' being destroyed
+[2023.09.04-19.38.59:161][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.16 sec (total: 5.37 sec)
+[2023.09.04-19.39.09:021][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-19.39.09:063][ 35]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/arrowSpawnManager
+[2023.09.04-19.39.09:064][ 35]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/arrowSpawnManager4850F57A463AA4C787669AAEA8A0BE61.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/arrowSpawnManager.uasset'
+[2023.09.04-19.39.09:075][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 5.42 sec)
+[2023.09.04-19.39.09:082][ 35]AssetCheck: New page: Asset Save: arrowSpawnManager
+[2023.09.04-19.39.09:082][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/arrowSpawnManager.arrowSpawnManager
+[2023.09.04-19.39.11:341][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-19.39.11:420][149]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_downArrow
+[2023.09.04-19.39.11:422][149]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_downArrow3AEE7A33442BB0B44C4E0BB2105069D9.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_downArrow.uasset'
+[2023.09.04-19.39.11:434][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 5.52 sec)
+[2023.09.04-19.39.11:441][149]AssetCheck: New page: Asset Save: BP_downArrow
+[2023.09.04-19.39.11:441][149]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_downArrow.BP_downArrow
+[2023.09.04-19.39.13:160][232]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-19.39.13:209][232]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_leftArrow
+[2023.09.04-19.39.13:210][232]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_leftArrowD8DF2B5F4DD084807D78CD9BCB590863.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_leftArrow.uasset'
+[2023.09.04-19.39.13:221][232]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.58 sec)
+[2023.09.04-19.39.13:229][232]AssetCheck: New page: Asset Save: BP_leftArrow
+[2023.09.04-19.39.13:229][232]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_leftArrow.BP_leftArrow
+[2023.09.04-19.39.14:984][323]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-19.39.15:026][323]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_rightArrow
+[2023.09.04-19.39.15:027][323]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_rightArrow98EEA7ED4A058F077D7F84992BF360D4.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_rightArrow.uasset'
+[2023.09.04-19.39.15:039][323]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 5.63 sec)
+[2023.09.04-19.39.15:046][323]AssetCheck: New page: Asset Save: BP_rightArrow
+[2023.09.04-19.39.15:046][323]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_rightArrow.BP_rightArrow
+[2023.09.04-19.39.16:814][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-19.39.16:858][415]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/BP_upArrow
+[2023.09.04-19.39.16:859][415]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BP_upArrowADE01B614E0233AC07B045B4555170D6.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_upArrow.uasset'
+[2023.09.04-19.39.16:869][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 5.69 sec)
+[2023.09.04-19.39.16:876][415]AssetCheck: New page: Asset Save: BP_upArrow
+[2023.09.04-19.39.16:876][415]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/BP_upArrow.BP_upArrow
