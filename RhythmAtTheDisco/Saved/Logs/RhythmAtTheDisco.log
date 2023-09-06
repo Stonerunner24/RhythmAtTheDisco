@@ -6538,3 +6538,60 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.09.06-18.45.04:994][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2023.09.06-18.45.28:750][140]BlueprintLog: New page: Compile arrowSpawnManager
 [2023.09.06-18.45.28:837][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.09.06-18.48.15:866][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.09.06-18.48.15:957][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.06-18.48.16:005][268]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Arrow/2/H2/CANL58WZREG7AALPL6N367
+[2023.09.06-18.48.16:005][268]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/CANL58WZREG7AALPL6N367A5D08C5043E2F3B40E0EC191034A7CF7.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/Arrow/2/H2/CANL58WZREG7AALPL6N367.uasset'
+[2023.09.06-18.48.16:026][268]LogSavePackage: Moving output files for package: /Game/models/arrowSpawnables/arrowSpawnManager
+[2023.09.06-18.48.16:027][268]LogSavePackage: Moving 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Saved/arrowSpawnManager50F6AF1241BD8762AC3167AE2B588F43.tmp' to 'C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/arrowSpawnManager.uasset'
+[2023.09.06-18.48.16:039][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms
+[2023.09.06-18.48.16:045][268]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.06-18.48.16:045][268]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/arrowSpawnManager.arrowSpawnManager
+[2023.09.06-18.48.16:046][268]LogContentValidation: Display: Validating /Game/models/arrowSpawnables/arrowSpawnManager.arrowSpawnManager_C /Game/Arrow.Arrow:PersistentLevel.arrowSpawnManager_C_UAID_9C5A44750A409FA601_1863227439
+[2023.09.06-18.48.28:350][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.09.06-18.48.28:355][ 92]LogStall: Shutdown...
+[2023.09.06-18.48.28:367][ 92]LogStall: Shutdown complete.
+[2023.09.06-18.48.28:394][ 92]LogSlate: Window 'arrowSpawnManager' being destroyed
+[2023.09.06-18.48.28:460][ 92]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.09.06-18.48.28:460][ 92]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.09.06-18.48.28:460][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.06-18.48.28:577][ 92]LogSlate: Window 'RhythmAtTheDisco - Unreal Editor' being destroyed
+[2023.09.06-18.48.28:807][ 93]Cmd: QUIT_EDITOR
+[2023.09.06-18.48.28:807][ 93]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.09.06-18.48.28:851][ 93]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.09.06-18.48.28:868][ 93]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.09.06-18.48.28:877][ 93]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.09.06-18.48.28:983][ 93]LogWorld: UWorld::CleanupWorld for Arrow, bSessionEnded=true, bCleanupResources=true
+[2023.09.06-18.48.28:983][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.06-18.48.28:984][ 93]LogContentBundle: [Arrow(Standalone)] Deleting container.
+[2023.09.06-18.48.29:164][ 93]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.09.06-18.48.29:232][ 93]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.09.06-18.48.29:707][ 93]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.09.06-18.48.29:707][ 93]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.09.06-18.48.29:707][ 93]LogAudio: Display: Audio Device unregistered from world 'Arrow'.
+[2023.09.06-18.48.29:710][ 93]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.09.06-18.48.29:740][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.06-18.48.29:758][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.06-18.48.29:783][ 93]LogAudio: Display: Audio Device Manager Shutdown
+[2023.09.06-18.48.29:828][ 93]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.06-18.48.29:828][ 93]LogExit: Preparing to exit.
+[2023.09.06-18.48.30:225][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.06-18.48.30:230][ 93]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
