@@ -3206,3 +3206,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.11-19.04.24:029][ 64]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 7.93 sec)
 [2023.09.11-19.04.24:037][ 64]AssetCheck: New page: Asset Save: arrowSpawnManager
 [2023.09.11-19.04.24:037][ 64]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/models/arrowSpawnables/arrowSpawnManager.arrowSpawnManager
+[2023.09.11-19.09.29:840][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.09.11-19.09.29:843][822]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.032
