@@ -2784,3 +2784,1284 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2023.09.18-19.56.48:218][ 72]LogEditorActor: Deleted Actor: BP_MonsterChad_Actor_C
 [2023.09.18-19.56.48:235][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2023.09.18-19.56.48:236][ 72]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.09.18-19.59.08:276][145]LogSlate: Window 'Save Level As' being destroyed
+[2023.09.18-19.59.08:668][145]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+/Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+/Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+/Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+/Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+/Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+/Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+/Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+/Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+/Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+/Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+/Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+/Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+/Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+/Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+/Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+/Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+/Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+/Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+/Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+/Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+/Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+/Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+/Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+/Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+/Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+/Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+/Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+/Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+/Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+/Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+/Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+/Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+/Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+/Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+/Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+/Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+/Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+/Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+/Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+/Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+/Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+/Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+/Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+/Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+/Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+/Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+/Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+/Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+/Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+/Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+/Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+/Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+/Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+/Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+/Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+/Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+/Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+/Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+/Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+/Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+/Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+/Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+/Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+/Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+/Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+/Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+/Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+/Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+/Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+/Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+/Game/__ExternalActors__/NewMap/5/K5/N5PQOIOOZA749OR27OS0F7
+/Game/__ExternalActors__/NewMap/6/2O/DXFGF2WM4JJABUV0FET9FV
+/Game/__ExternalActors__/NewMap/9/2R/7Y8MMR44XVULYO5P3YZL6Q
+/Game/__ExternalActors__/NewMap/6/HH/WEV2UZOW80WMJE695BD7Q8
+/Game/__ExternalActors__/NewMap/5/XG/8DSW2V35VY2X5SMHCJ0A83
+/Game/__ExternalActors__/NewMap/4/OC/ZNLH3RF59GXIC6NLPXICJV
+/Game/__ExternalActors__/NewMap/2/4C/VZIZRHQCO6B7KG8DEJKZAU
+/Game/__ExternalActors__/NewMap/B/8P/CM2NN20XZG7JOWND4OKSFF
+/Game/__ExternalActors__/NewMap/5/J7/A965JVJJK99ZV7RSG0A80Y
+/Game/__ExternalActors__/NewMap/3/XV/FQZFA2ZLA9XBN7XWV0QIN8
+/Game/__ExternalActors__/NewMap/C/Z1/5JJ1TP1XPKW9WSX7HGUMJU
+/Game/__ExternalActors__/NewMap/D/YE/SR6HPODQM7KP47H3B60IL3
+/Game/__ExternalActors__/NewMap/7/OX/U1S14RGV0J3HYBLRGYLFIH
+/Game/__ExternalActors__/NewMap/7/69/K2DUYEPPDEHF7DXTMITAO4
+/Game/__ExternalActors__/NewMap/4/6W/J14X55NXI3UVJMVVIW1NAN
+/Game/__ExternalActors__/NewMap/9/R1/8BCEFBDGK0H81DULB6PL99
+/Game/__ExternalActors__/NewMap/7/ZI/H9Z8XD8BJTDFP4C3J5UYO5
+/Game/__ExternalActors__/NewMap/F/47/SRE2F10IBLNCEHWHDB0R5Q
+/Game/__ExternalActors__/NewMap/B/QO/2LS1PO2KB0MPBU3Q10JQLS
+/Game/__ExternalActors__/NewMap/0/QY/YUZCOR8LUXX6PIBH0Q0BO9
+/Game/__ExternalActors__/NewMap/7/P9/5INQQWN21QET7O4P293LRP
+/Game/__ExternalActors__/NewMap/2/IG/Y65WPOHBQW42TNWBNMQ1L3
+/Game/__ExternalActors__/NewMap/6/5X/42927YT2PIUFMXJ9TCYHNH
+/Game/__ExternalActors__/NewMap/0/65/3U8C974D5MOQ8LAHOO4OCF
+/Game/__ExternalActors__/NewMap/0/19/P6TW7XC9AP5UWY79STK9GK
+/Game/__ExternalActors__/NewMap/A/HQ/88P9BDP4TVKYFOZOJN3QMQ
+/Game/__ExternalActors__/NewMap/2/3Q/WL4B65TFTACMIMHM4H03A7
+/Game/__ExternalActors__/NewMap/A/OY/ET64S8Y7B7A56RDOXEXET4
+/Game/__ExternalActors__/NewMap/3/GN/GA7D4CR7K6V687F7J61C3N
+/Game/__ExternalActors__/NewMap/D/CY/79499WIO2JEGDOHXKAVE2Q
+/Game/__ExternalActors__/NewMap/3/7K/TMNUAYLY4F5HL33COW5OC3
+/Game/__ExternalActors__/NewMap/2/RD/GHAKQAVACU5JIZXY0Y8JB5
+/Game/__ExternalActors__/NewMap/C/MP/7SW071I54YKZ7WANNW9ZNF
+/Game/__ExternalActors__/NewMap/B/1O/W74LG5Z5X560FBYOC0UL54
+/Game/__ExternalActors__/NewMap/A/NH/500JBYKPF78U8D5OIH4ZTV
+/Game/__ExternalActors__/NewMap/A/KF/0HUUB8ZWRIJMRUKUDDMH1E
+/Game/__ExternalActors__/NewMap/C/7A/579A09SC2JTS2H6LSR13PL
+/Game/__ExternalActors__/NewMap/8/03/XUBA90OKAR0F82M61W3CX8
+/Game/__ExternalActors__/NewMap/9/XH/RE3KCKBHLMM1GG0PY3DP2X
+/Game/__ExternalActors__/NewMap/2/WD/GI741NDVNZBKI2A7TXX224
+/Game/__ExternalActors__/NewMap/1/4E/Q1KRQ2YOUWFAZ0SNJ2S0IF
+/Game/__ExternalActors__/NewMap/E/N8/PFO7BDZ0JAA14BRARTV0S0
+/Game/__ExternalActors__/NewMap/A/IO/8Z6TE7XPJH0N4NGDM5G8FO
+/Game/__ExternalActors__/NewMap/8/V0/ZL0SLSEYGYT07XDJ00EIUF
+/Game/__ExternalActors__/NewMap/1/40/44UC22RK64JP3YG9GR8ZH4
+/Game/__ExternalActors__/NewMap/A/97/TJ4C9PDLS1GUU3HZVA9VAW
+/Game/__ExternalActors__/NewMap/9/F0/2PBKWHHRFBG1A4L1JXPK2N
+/Game/__ExternalActors__/NewMap/1/FP/E0070ZPQ0510UOASJSCVAJ
+/Game/__ExternalActors__/NewMap/1/3C/PEH7TW33XZKZ1EF9JBCDPX
+/Game/__ExternalActors__/NewMap/B/EO/2UN44M3CSTF66URSISACO7
+/Game/__ExternalActors__/NewMap/2/5S/LKWFWDPYQSEQSQPB66JM48
+/Game/__ExternalActors__/NewMap/D/JR/WB3NI9RNBS8ZM7NAOBCUT1
+/Game/__ExternalActors__/NewMap/4/5W/6XNNGY07XFQS1KA8BSIAGI
+/Game/__ExternalActors__/NewMap/9/S0/ZQAAAMNNZKH0GPXO0DBFMJ
+/Game/__ExternalActors__/NewMap/B/MX/VD8G2R3DRQURL3L2N8FK5A
+/Game/__ExternalActors__/NewMap/9/P8/B0WWH2443MBX8KNWBXHRF4
+/Game/__ExternalActors__/NewMap/6/FM/N6HUV654J3L83XHWCME1XN
+/Game/__ExternalActors__/NewMap/1/0H/BMRPGXAA4ISZUWMZHYLHZI
+/Game/__ExternalActors__/NewMap/9/TR/EQW5T4BO9JJ206FV4WNNES
+/Game/__ExternalActors__/NewMap/1/J6/P0NXNHI04JBPOHH6OHIDSK
+/Game/__ExternalActors__/NewMap/8/B3/RBYC3BLDB8MGWKK1EO1GW0
+/Game/__ExternalActors__/NewMap/D/8Z/4LSU7JRUL69YYIDJGSE35W
+/Game/__ExternalActors__/NewMap/1/DT/ZX3WQ173AO0DO5BNMZ4U3K
+/Game/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX
+[2023.09.18-19.59.08:669][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.18-19.59.08:670][145]LogSavePackage: Moving output files for package: /Game/NewMap_HLOD0_Instancing
+[2023.09.18-19.59.08:670][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/NewMap_HLOD0_Instancing78E80C004CFF8911FFC4C08E9E6D9087.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/NewMap_HLOD0_Instancing.uasset'
+[2023.09.18-19.59.08:672][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+[2023.09.18-19.59.08:672][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/QO5TQORWCXORVK1051S8GH9E3D76D545A7A45C0944829B18F907E0.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset'
+[2023.09.18-19.59.08:675][145]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+[2023.09.18-19.59.08:675][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/3FHCA0FW5IIFSQ2O54UZA9E938AAAF40D1250E9F598D89A7FF3A1F.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset'
+[2023.09.18-19.59.08:678][145]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+[2023.09.18-19.59.08:678][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/99MZXH85XVTY7NU0J1OJ8N09734C594F0C1C0E2FB39A8A032EB281.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset'
+[2023.09.18-19.59.08:680][145]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+[2023.09.18-19.59.08:680][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/DIR8ZHVIQ96U3XBY7PSRNIDCC98E6E446CFE2AABFC26B954148A6D.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI.uasset'
+[2023.09.18-19.59.08:682][145]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+[2023.09.18-19.59.08:682][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/PV6HCV4P0GX9P77B63TXTQACBB0AB340377BBA0D7A269B40E282EB.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ.uasset'
+[2023.09.18-19.59.08:683][145]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+[2023.09.18-19.59.08:683][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/KV5NVW6RVGCY40C13H5F980BF65A69456E93D3EA49409B11695DF2.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98.uasset'
+[2023.09.18-19.59.08:688][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+[2023.09.18-19.59.08:688][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/K9ZUEA69K5KJSH5045MJR18DC9DAF543DDE0F3362838A5113B8F53.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1.uasset'
+[2023.09.18-19.59.08:690][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+[2023.09.18-19.59.08:690][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/33JI6228IHMKP046YQI3NM2B2BD17142B868E03F8481A7F157BA72.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM.uasset'
+[2023.09.18-19.59.08:693][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+[2023.09.18-19.59.08:693][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/D90LOZ6OX06T5XEND5R79L2BF05B04475FC3C12B7A54B41DE194FE.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L.uasset'
+[2023.09.18-19.59.08:695][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+[2023.09.18-19.59.08:695][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/SX9JKDV4UA15T0E1TTFAVZA1E606A14FFCBA973CC6BB92A98C4B36.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ.uasset'
+[2023.09.18-19.59.08:697][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+[2023.09.18-19.59.08:697][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/UWT2EIZPYQICCJ0JNTZ85VB1999BB44072A72CE5FC859E12736A46.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V.uasset'
+[2023.09.18-19.59.08:699][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+[2023.09.18-19.59.08:699][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/QNW4NKCF3JB30PDQLYNK04DB94BDA34CB60784E5A9EBB66CD2DD75.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04.uasset'
+[2023.09.18-19.59.08:701][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+[2023.09.18-19.59.08:701][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/S0M3NFTEJWDWQXLH8WL3P0213367BC49CF9DA7A7B2A192D6D4625F.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0.uasset'
+[2023.09.18-19.59.08:704][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2023.09.18-19.59.08:704][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/H67VGU7BHNHPWWQEMQJ41J6571EE5D4D115DBABBF35BB48BB9F54D.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset'
+[2023.09.18-19.59.08:720][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2023.09.18-19.59.08:720][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/STFWH78SWHO1BT3JB2S9GT9C340AD74C86D3B283C6E7B4CBFF49EC.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset'
+[2023.09.18-19.59.08:739][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+[2023.09.18-19.59.08:739][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/N5WZ7N63Q2DBG05ZT1Y94V3C1AC3ED4EAE654AD721929EBECD715F.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V.uasset'
+[2023.09.18-19.59.08:757][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+[2023.09.18-19.59.08:757][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/QCU8K2REN785K74C0JAHL879AF71B746AD1063E84B24AE31D86C08.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8.uasset'
+[2023.09.18-19.59.08:773][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2023.09.18-19.59.08:773][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/V9CAJRQOOCARULA8KSKFKF88011EB94F3925C8EADA78A49224E455.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF.uasset'
+[2023.09.18-19.59.08:791][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+[2023.09.18-19.59.08:791][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/PZ5XNZU157V0GDAJAXC2DQCA89E4334438EF9C9FB5F0915D2653A8.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ.uasset'
+[2023.09.18-19.59.08:807][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2023.09.18-19.59.08:807][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/QBOG0EUDUJ3I7CKDLU6SM51C25B33E4841996D14CEC1998E4EAE32.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5.uasset'
+[2023.09.18-19.59.08:823][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2023.09.18-19.59.08:823][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/K5XHNT2TJPQ6HM9TN0HG8R91637B264D24C3B4A72452B2AA1F56EB.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R.uasset'
+[2023.09.18-19.59.08:839][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2023.09.18-19.59.08:839][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Y8EZ2AXLMEN39WTAPXB6VM0FA659394A801797521D1AA81F748799.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM.uasset'
+[2023.09.18-19.59.08:855][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2023.09.18-19.59.08:855][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/RPVI13LNVTY93V3EQ1Y4FV35151CE948428F7958DA079140D5FE30.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV.uasset'
+[2023.09.18-19.59.08:872][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2023.09.18-19.59.08:872][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/UDWQC9DWW7DL22CPJ4RVSI609FE76F4B265A4A967AE8AD30B560FF.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI.uasset'
+[2023.09.18-19.59.08:888][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2023.09.18-19.59.08:888][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/EE3LUXOWULAYGXN1IPS4S20D3330D344F04067C4E0429956335DA1.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2.uasset'
+[2023.09.18-19.59.08:908][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2023.09.18-19.59.08:908][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Y3GF0HWTXA7DHH1FL3IF9RF73B6C4841B1297A06187988B7368559.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R.uasset'
+[2023.09.18-19.59.08:926][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2023.09.18-19.59.08:926][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/XX81YC0HUFD6L3IX7RWMS0E1930DD54B2A9A14DDDE3DAF7B1FF20F.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0.uasset'
+[2023.09.18-19.59.08:945][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2023.09.18-19.59.08:945][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/5E0J4DYSYB0DUPM0H3UFMJ661BF173454643A77E38768FE488F62F.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ.uasset'
+[2023.09.18-19.59.08:969][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2023.09.18-19.59.08:969][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/I3YAKOIE9OZW8RGU76MLDU0C3C313840B9815B84F9D3B3ED3665A4.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU.uasset'
+[2023.09.18-19.59.08:989][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2023.09.18-19.59.08:989][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/8TXEZSVIN8XJXFAAPYJ9PF966447D441BEB20D94B7C199BD54B289.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF.uasset'
+[2023.09.18-19.59.09:007][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2023.09.18-19.59.09:007][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/99H285CLZ96HCTKT3S7S79D9BDB5AD48D1175AAE7EAEB1556DD96B.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79.uasset'
+[2023.09.18-19.59.09:029][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2023.09.18-19.59.09:029][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/J8JQXJ67F9KX47CCDA8ZMFE37B52334641A614E6F123B9E5110A64.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF.uasset'
+[2023.09.18-19.59.09:046][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2023.09.18-19.59.09:046][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/7UWDO77CF7TNVQ9BB75XCF7F806DAB41872B5D9D08BEBDDD0ED326.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF.uasset'
+[2023.09.18-19.59.09:062][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2023.09.18-19.59.09:062][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/TIHXLB5639NV4RM260YDTW19D8CB754B1D5CF7C118618F89078649.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW.uasset'
+[2023.09.18-19.59.09:078][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2023.09.18-19.59.09:078][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/GV76BBB2V0EFHV7ELK9A0Y3AEB421646ED4571B57CC6AC2E13D46A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y.uasset'
+[2023.09.18-19.59.09:095][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2023.09.18-19.59.09:095][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/CHPLQ79FFGJWC3VACZJA908FC0620F4262A82090EC42835EF21D9D.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90.uasset'
+[2023.09.18-19.59.09:111][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2023.09.18-19.59.09:111][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/39OTWHVDSI751PAH6731ID1205A2B8438F23E22C29C1972FDC9BD9.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID.uasset'
+[2023.09.18-19.59.09:127][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2023.09.18-19.59.09:127][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/3B5158OKASMIKGFDZC9KRF0D04C9944BB3640C5E75C5BBBBFA9757.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF.uasset'
+[2023.09.18-19.59.09:145][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2023.09.18-19.59.09:145][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/X4NPSX8ZUWI1DPH52YEUUP795AFD1649AC9666AA9BC9A5F0D4EFBD.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP.uasset'
+[2023.09.18-19.59.09:163][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2023.09.18-19.59.09:163][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/MRZ7RQN5KANFM03I7EKRCCD4AABE344AEE8976CFDE46843B8CA182.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC.uasset'
+[2023.09.18-19.59.09:186][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2023.09.18-19.59.09:186][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/XQN8LZWIDWMWIMOBUZOJDH2647BE3D40AE009A9165CDBEFA407A34.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH.uasset'
+[2023.09.18-19.59.09:213][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2023.09.18-19.59.09:213][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/ELJ3HI994B42IQIWQEZNGDFC9D97434C215164C10845AAEB111698.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD.uasset'
+[2023.09.18-19.59.09:232][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2023.09.18-19.59.09:232][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/JJD8SHJCMNFNMC34COATAMC6E0B39646CE9698D9D2DE92A8EFFAFE.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM.uasset'
+[2023.09.18-19.59.09:251][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2023.09.18-19.59.09:251][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/HYGURXU7M62N8WAUIXLWPQ544DD220486333191A7199B4599C22DF.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ.uasset'
+[2023.09.18-19.59.09:270][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2023.09.18-19.59.09:270][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/FH4UWQ2MQA5KPUZVXS23LJ5D570280473A52474BE1A783C9A7B0DA.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ.uasset'
+[2023.09.18-19.59.09:292][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2023.09.18-19.59.09:292][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/PLU0RE738EMG7CF7VC8D9SDA2944814C4EB068222DB399310CE015.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S.uasset'
+[2023.09.18-19.59.09:316][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2023.09.18-19.59.09:316][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/KXAGD7OP6IEQ3K8LWI86RL91EC388D47D1487C54E4419E6AA2CEF5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL.uasset'
+[2023.09.18-19.59.09:341][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2023.09.18-19.59.09:341][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/9034HM4Y3YU11DE4XNPRA935B2CFB044A06446F27040AA4B666E2A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9.uasset'
+[2023.09.18-19.59.09:362][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2023.09.18-19.59.09:362][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/OHRQN7RF5THM8Z6O6262I461C0F8D0443B936C8702E78C1042E30B.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4.uasset'
+[2023.09.18-19.59.09:382][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2023.09.18-19.59.09:382][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/TAVO56E9B1HVH1F45RLBIA04A0EE824900729DC7F7F998E79B35DB.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA.uasset'
+[2023.09.18-19.59.09:400][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2023.09.18-19.59.09:400][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/4ND4ZK6J06I5L4DPSTPYW99A97559B4A1EF4EC2918BA8827D6E519.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9.uasset'
+[2023.09.18-19.59.09:419][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2023.09.18-19.59.09:419][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/VXH4MI02ODW8DKNLA2MOK38351E37340EBB3EFF097A1AA556B6252.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3.uasset'
+[2023.09.18-19.59.09:437][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2023.09.18-19.59.09:437][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/0XXSVY1Y0D2HIHA43BVMPHC3B7D3E44F10F218EF47D4869F14087C.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH.uasset'
+[2023.09.18-19.59.09:454][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2023.09.18-19.59.09:454][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/JV2GOVBPB8GZ9MQUICHC9SA6B2506A48A58EBFC1858FAE8CCD8BF8.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S.uasset'
+[2023.09.18-19.59.09:476][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2023.09.18-19.59.09:476][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/CK3DVSRDA9WTQU5TC2XO2V97A59F2C4C0BEB72DCF292B7C0CEBD32.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V.uasset'
+[2023.09.18-19.59.09:496][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2023.09.18-19.59.09:498][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/NURB0U7U9ZV4H4LX7FT8T2F68866CD4613EB5D336315B251ECAD77.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2.uasset'
+[2023.09.18-19.59.09:522][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2023.09.18-19.59.09:522][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/B3NPG0KFON6BVW5ECZJSUIBD680D934B467921569725A3AF910D35.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI.uasset'
+[2023.09.18-19.59.09:545][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2023.09.18-19.59.09:545][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BULBFMUS7ADZJMH54QGDK9A41C90C74C4E6C6A42B005A64967053B.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9.uasset'
+[2023.09.18-19.59.09:563][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2023.09.18-19.59.09:563][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/1HONC7HVU91I909A4N80W2D7D9BA044657E9968E77DAB7B242DE21.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2.uasset'
+[2023.09.18-19.59.09:586][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2023.09.18-19.59.09:586][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/6S23OQXPMF10HYXLB9OEIP6D7ACD9F4F84A09CC9F97095687DFC96.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP.uasset'
+[2023.09.18-19.59.09:603][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2023.09.18-19.59.09:603][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/L8FAOYPHJNQSTCW3XMMSJT173F5B5643BA74D634192B9672F2A814.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT.uasset'
+[2023.09.18-19.59.09:621][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2023.09.18-19.59.09:621][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/29WASR1BMNC6IXHW8I5KZ8B685AED54E5881E67264D59694C36F8D.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8.uasset'
+[2023.09.18-19.59.09:638][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2023.09.18-19.59.09:638][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/T187Z8E2C6CPJLXCH06KRJ240B938A4BAD236F7DFD0C95B8E657E5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ.uasset'
+[2023.09.18-19.59.09:657][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2023.09.18-19.59.09:657][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/85792LT2Y93I704I1JYP1KB0D846D240E206B3921F57BEF515D72A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K.uasset'
+[2023.09.18-19.59.09:676][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2023.09.18-19.59.09:676][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Y23P0KHN1XII71UX7D1H8Q0AC0162746BCC68721B100BFDC5C1148.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q.uasset'
+[2023.09.18-19.59.09:698][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2023.09.18-19.59.09:698][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/E7UFHHQZ7B8TLAL6Y74JRC21FA40954B9D75AFC25674BC454ACA98.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC.uasset'
+[2023.09.18-19.59.09:721][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2023.09.18-19.59.09:721][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/FL16ITLR22643N9B35THAR937E2B5B4F10E649BAD1A4BF7C601264.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR.uasset'
+[2023.09.18-19.59.09:738][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2023.09.18-19.59.09:738][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/90QVEWVNXY6N07CS9SHQPMCF5D182F4D2059EBE99A69A67FBD7776.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM.uasset'
+[2023.09.18-19.59.09:760][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2023.09.18-19.59.09:760][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/YMDE4WERKLNXIT8TVTH5OW46B5308444924584E108EA8F146423CA.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW.uasset'
+[2023.09.18-19.59.09:776][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2023.09.18-19.59.09:776][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/NERX0MWYRICL228ZB8J0QW56F6482E40621EA845903E840CD5EE3C.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW.uasset'
+[2023.09.18-19.59.09:798][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2023.09.18-19.59.09:798][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/VZU403KFJ6UJQ2M3VY6736908FF62B4CF670E34735D58DEE166995.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736.uasset'
+[2023.09.18-19.59.09:814][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2023.09.18-19.59.09:814][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/JANFZ62JMG0U1Z3UNCQVKVC78BBD1B4B153D6CD845B3A131FC8D05.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV.uasset'
+[2023.09.18-19.59.09:832][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2023.09.18-19.59.09:832][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/SPYD0PSGU4M3NK7DI5RDRMF06F90374D2A53373884ED93A0D7ADD0.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM.uasset'
+[2023.09.18-19.59.09:851][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2023.09.18-19.59.09:851][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/M58JIDBQC2JEOWYFQ17JSY137EAB8C4D061313C64FAF8E9FD7EBFC.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY.uasset'
+[2023.09.18-19.59.09:871][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2023.09.18-19.59.09:871][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/4G06FUR85LXRX1UCMOAFBE42E6C24B4A89EE1C817D518BFE8C66E5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset'
+[2023.09.18-19.59.09:891][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2023.09.18-19.59.09:892][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/4NBZKC5PVQODH9SVSYPY1EC5DD32824904FFA48996FA9C43F46395.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset'
+[2023.09.18-19.59.09:910][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2023.09.18-19.59.09:910][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/APFM7ONOEVP1TBHZZ5VTDADB8A60BF42F92E9BD47E028FAC64AA28.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset'
+[2023.09.18-19.59.09:932][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2023.09.18-19.59.09:932][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/UYA7A5HTQTJSRWJ4MK2WT69597766349A8DE8D99E1E0838DA2A6AA.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset'
+[2023.09.18-19.59.09:945][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/K5/N5PQOIOOZA749OR27OS0F7
+[2023.09.18-19.59.09:945][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/N5PQOIOOZA749OR27OS0F72E84B5BF410F3B7DB0A3D68689E8D458.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/5/K5/N5PQOIOOZA749OR27OS0F7.uasset'
+[2023.09.18-19.59.09:957][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/2O/DXFGF2WM4JJABUV0FET9FV
+[2023.09.18-19.59.09:957][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/DXFGF2WM4JJABUV0FET9FV7550B8EE46E5A3464D86468080123459.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/2O/DXFGF2WM4JJABUV0FET9FV.uasset'
+[2023.09.18-19.59.09:968][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/2R/7Y8MMR44XVULYO5P3YZL6Q
+[2023.09.18-19.59.09:968][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/7Y8MMR44XVULYO5P3YZL6Q160520184A2E2B7026B745BC76260FF0.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/2R/7Y8MMR44XVULYO5P3YZL6Q.uasset'
+[2023.09.18-19.59.09:979][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HH/WEV2UZOW80WMJE695BD7Q8
+[2023.09.18-19.59.09:979][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/WEV2UZOW80WMJE695BD7Q8ED9B424D41103F939EED18AB5B5C279A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/HH/WEV2UZOW80WMJE695BD7Q8.uasset'
+[2023.09.18-19.59.09:998][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/XG/8DSW2V35VY2X5SMHCJ0A83
+[2023.09.18-19.59.09:998][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/8DSW2V35VY2X5SMHCJ0A83EFA1CA7543690C8AD221DE9B96E6D292.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/5/XG/8DSW2V35VY2X5SMHCJ0A83.uasset'
+[2023.09.18-19.59.10:025][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OC/ZNLH3RF59GXIC6NLPXICJV
+[2023.09.18-19.59.10:025][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/ZNLH3RF59GXIC6NLPXICJVAA676F484ACC08B00D8E839563E88963.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/OC/ZNLH3RF59GXIC6NLPXICJV.uasset'
+[2023.09.18-19.59.10:044][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4C/VZIZRHQCO6B7KG8DEJKZAU
+[2023.09.18-19.59.10:044][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/VZIZRHQCO6B7KG8DEJKZAU17D3BC934B71BA139794139DD8420D88.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/4C/VZIZRHQCO6B7KG8DEJKZAU.uasset'
+[2023.09.18-19.59.10:066][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/8P/CM2NN20XZG7JOWND4OKSFF
+[2023.09.18-19.59.10:066][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/CM2NN20XZG7JOWND4OKSFF8CB53EF043B288E69ED01F95B1CE2BA4.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/8P/CM2NN20XZG7JOWND4OKSFF.uasset'
+[2023.09.18-19.59.10:098][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/J7/A965JVJJK99ZV7RSG0A80Y
+[2023.09.18-19.59.10:098][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/A965JVJJK99ZV7RSG0A80Y40B913B148C2A7F24A3F14A501AA508D.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/5/J7/A965JVJJK99ZV7RSG0A80Y.uasset'
+[2023.09.18-19.59.10:108][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/XV/FQZFA2ZLA9XBN7XWV0QIN8
+[2023.09.18-19.59.10:108][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/FQZFA2ZLA9XBN7XWV0QIN8BCB1593A4FDB9D2AF48829829A942F88.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/3/XV/FQZFA2ZLA9XBN7XWV0QIN8.uasset'
+[2023.09.18-19.59.10:119][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Z1/5JJ1TP1XPKW9WSX7HGUMJU
+[2023.09.18-19.59.10:119][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/5JJ1TP1XPKW9WSX7HGUMJU9AC6498D47184CB8F1E0F49D50109939.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/C/Z1/5JJ1TP1XPKW9WSX7HGUMJU.uasset'
+[2023.09.18-19.59.10:129][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/YE/SR6HPODQM7KP47H3B60IL3
+[2023.09.18-19.59.10:129][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/SR6HPODQM7KP47H3B60IL3B557A1094C20ABF84BD9B39F01A93861.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/D/YE/SR6HPODQM7KP47H3B60IL3.uasset'
+[2023.09.18-19.59.10:140][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/OX/U1S14RGV0J3HYBLRGYLFIH
+[2023.09.18-19.59.10:140][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/U1S14RGV0J3HYBLRGYLFIHFF06BB8E4B694CEE58DDA890300B272A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/OX/U1S14RGV0J3HYBLRGYLFIH.uasset'
+[2023.09.18-19.59.10:152][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/69/K2DUYEPPDEHF7DXTMITAO4
+[2023.09.18-19.59.10:152][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/K2DUYEPPDEHF7DXTMITAO4A47AD9E54C4A7E43A1DCA3B3A02B08F0.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/69/K2DUYEPPDEHF7DXTMITAO4.uasset'
+[2023.09.18-19.59.10:193][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/6W/J14X55NXI3UVJMVVIW1NAN
+[2023.09.18-19.59.10:193][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/J14X55NXI3UVJMVVIW1NAN5FB39A0646E219F1658BD7B5126F596D.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/6W/J14X55NXI3UVJMVVIW1NAN.uasset'
+[2023.09.18-19.59.10:215][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/R1/8BCEFBDGK0H81DULB6PL99
+[2023.09.18-19.59.10:215][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/8BCEFBDGK0H81DULB6PL99D4644CBC44E2AD0DC0378688059276F5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/R1/8BCEFBDGK0H81DULB6PL99.uasset'
+[2023.09.18-19.59.10:232][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZI/H9Z8XD8BJTDFP4C3J5UYO5
+[2023.09.18-19.59.10:232][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/H9Z8XD8BJTDFP4C3J5UYO5D7C723D146CA0989E650F19834F15B00.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/ZI/H9Z8XD8BJTDFP4C3J5UYO5.uasset'
+[2023.09.18-19.59.10:249][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/F/47/SRE2F10IBLNCEHWHDB0R5Q
+[2023.09.18-19.59.10:249][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/SRE2F10IBLNCEHWHDB0R5Q43012726429AA36E1C7FD89C4FC2E39E.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/F/47/SRE2F10IBLNCEHWHDB0R5Q.uasset'
+[2023.09.18-19.59.10:267][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/QO/2LS1PO2KB0MPBU3Q10JQLS
+[2023.09.18-19.59.10:267][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/2LS1PO2KB0MPBU3Q10JQLSBCDA0BE74D04763A988EB8A553D29D24.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/QO/2LS1PO2KB0MPBU3Q10JQLS.uasset'
+[2023.09.18-19.59.10:285][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/QY/YUZCOR8LUXX6PIBH0Q0BO9
+[2023.09.18-19.59.10:285][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/YUZCOR8LUXX6PIBH0Q0BO90A81EB084D7E98A2EE028CA364836BC2.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/QY/YUZCOR8LUXX6PIBH0Q0BO9.uasset'
+[2023.09.18-19.59.10:304][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/P9/5INQQWN21QET7O4P293LRP
+[2023.09.18-19.59.10:304][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/5INQQWN21QET7O4P293LRPAB6EAB1E42C4BC89F92E13A6E188A1FB.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/7/P9/5INQQWN21QET7O4P293LRP.uasset'
+[2023.09.18-19.59.10:315][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/IG/Y65WPOHBQW42TNWBNMQ1L3
+[2023.09.18-19.59.10:315][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Y65WPOHBQW42TNWBNMQ1L3D61376EA488895EEEF5E0FB43BD8EE1B.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/IG/Y65WPOHBQW42TNWBNMQ1L3.uasset'
+[2023.09.18-19.59.10:325][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/5X/42927YT2PIUFMXJ9TCYHNH
+[2023.09.18-19.59.10:325][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/42927YT2PIUFMXJ9TCYHNH36454C81479F8F43C2BCFBAED387577A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/5X/42927YT2PIUFMXJ9TCYHNH.uasset'
+[2023.09.18-19.59.10:342][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/65/3U8C974D5MOQ8LAHOO4OCF
+[2023.09.18-19.59.10:342][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/3U8C974D5MOQ8LAHOO4OCFB7D6E2754BB04D9A0C373BA06814D143.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/65/3U8C974D5MOQ8LAHOO4OCF.uasset'
+[2023.09.18-19.59.10:357][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/19/P6TW7XC9AP5UWY79STK9GK
+[2023.09.18-19.59.10:357][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/P6TW7XC9AP5UWY79STK9GK8A904F9A40B7F810B3D956BAD2DB70B0.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/0/19/P6TW7XC9AP5UWY79STK9GK.uasset'
+[2023.09.18-19.59.10:375][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/HQ/88P9BDP4TVKYFOZOJN3QMQ
+[2023.09.18-19.59.10:375][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/88P9BDP4TVKYFOZOJN3QMQD54ED76941763053B1A99F9E1AB9870E.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/HQ/88P9BDP4TVKYFOZOJN3QMQ.uasset'
+[2023.09.18-19.59.10:390][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3Q/WL4B65TFTACMIMHM4H03A7
+[2023.09.18-19.59.10:390][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/WL4B65TFTACMIMHM4H03A7DC75C4AC4924B33ADB396A86A7AE1C05.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/3Q/WL4B65TFTACMIMHM4H03A7.uasset'
+[2023.09.18-19.59.10:403][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/OY/ET64S8Y7B7A56RDOXEXET4
+[2023.09.18-19.59.10:403][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/ET64S8Y7B7A56RDOXEXET48B51C40E40D610AF127F1C9F6BA1D2EA.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/OY/ET64S8Y7B7A56RDOXEXET4.uasset'
+[2023.09.18-19.59.10:417][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/GN/GA7D4CR7K6V687F7J61C3N
+[2023.09.18-19.59.10:417][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/GA7D4CR7K6V687F7J61C3N611A7FB645E14D8B64205C9C0921DD86.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/3/GN/GA7D4CR7K6V687F7J61C3N.uasset'
+[2023.09.18-19.59.10:435][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/CY/79499WIO2JEGDOHXKAVE2Q
+[2023.09.18-19.59.10:435][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/79499WIO2JEGDOHXKAVE2Q742CF7B546B65D11DD4A6D8572937386.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/D/CY/79499WIO2JEGDOHXKAVE2Q.uasset'
+[2023.09.18-19.59.10:446][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/7K/TMNUAYLY4F5HL33COW5OC3
+[2023.09.18-19.59.10:446][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/TMNUAYLY4F5HL33COW5OC311EAB78A46D00D435DE524913E8303A2.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/3/7K/TMNUAYLY4F5HL33COW5OC3.uasset'
+[2023.09.18-19.59.10:465][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/RD/GHAKQAVACU5JIZXY0Y8JB5
+[2023.09.18-19.59.10:465][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/GHAKQAVACU5JIZXY0Y8JB5F72E4A7C4D5A4DD6AC76089F3A81A6E5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/RD/GHAKQAVACU5JIZXY0Y8JB5.uasset'
+[2023.09.18-19.59.10:480][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MP/7SW071I54YKZ7WANNW9ZNF
+[2023.09.18-19.59.10:480][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/7SW071I54YKZ7WANNW9ZNF8D6084684EC9F0C2B573F7AA2B2EF1C5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/C/MP/7SW071I54YKZ7WANNW9ZNF.uasset'
+[2023.09.18-19.59.10:495][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/1O/W74LG5Z5X560FBYOC0UL54
+[2023.09.18-19.59.10:495][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/W74LG5Z5X560FBYOC0UL54E52E1D53451245319A6860A77E1CC5D6.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/1O/W74LG5Z5X560FBYOC0UL54.uasset'
+[2023.09.18-19.59.10:520][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/NH/500JBYKPF78U8D5OIH4ZTV
+[2023.09.18-19.59.10:520][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/500JBYKPF78U8D5OIH4ZTVFF6F19744D2C1E9EE2387786809408DC.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/NH/500JBYKPF78U8D5OIH4ZTV.uasset'
+[2023.09.18-19.59.10:533][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/KF/0HUUB8ZWRIJMRUKUDDMH1E
+[2023.09.18-19.59.10:533][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/0HUUB8ZWRIJMRUKUDDMH1E0D59BF7E43E69ECCE23E2B82CC0B9F90.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/KF/0HUUB8ZWRIJMRUKUDDMH1E.uasset'
+[2023.09.18-19.59.10:554][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/7A/579A09SC2JTS2H6LSR13PL
+[2023.09.18-19.59.10:554][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/579A09SC2JTS2H6LSR13PL672A19EB46C5B77F2D750084A103DDA1.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/C/7A/579A09SC2JTS2H6LSR13PL.uasset'
+[2023.09.18-19.59.10:568][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/03/XUBA90OKAR0F82M61W3CX8
+[2023.09.18-19.59.10:568][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/XUBA90OKAR0F82M61W3CX8EF476A5C40BE3B27901E99A3252539C2.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/03/XUBA90OKAR0F82M61W3CX8.uasset'
+[2023.09.18-19.59.10:583][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/XH/RE3KCKBHLMM1GG0PY3DP2X
+[2023.09.18-19.59.10:583][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/RE3KCKBHLMM1GG0PY3DP2XFED2CEDB4666273561FA7283E8480902.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/XH/RE3KCKBHLMM1GG0PY3DP2X.uasset'
+[2023.09.18-19.59.10:597][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/WD/GI741NDVNZBKI2A7TXX224
+[2023.09.18-19.59.10:597][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/GI741NDVNZBKI2A7TXX22407FE13BB47635512076D34966667DEE7.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/WD/GI741NDVNZBKI2A7TXX224.uasset'
+[2023.09.18-19.59.10:617][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/4E/Q1KRQ2YOUWFAZ0SNJ2S0IF
+[2023.09.18-19.59.10:617][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/Q1KRQ2YOUWFAZ0SNJ2S0IF3996F42641156826FD4DD89A17F2A9B7.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/4E/Q1KRQ2YOUWFAZ0SNJ2S0IF.uasset'
+[2023.09.18-19.59.10:629][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/N8/PFO7BDZ0JAA14BRARTV0S0
+[2023.09.18-19.59.10:629][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/PFO7BDZ0JAA14BRARTV0S0DD2D1BA64F07EC0AF35BA1B1042622EB.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/E/N8/PFO7BDZ0JAA14BRARTV0S0.uasset'
+[2023.09.18-19.59.10:640][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/IO/8Z6TE7XPJH0N4NGDM5G8FO
+[2023.09.18-19.59.10:640][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/8Z6TE7XPJH0N4NGDM5G8FO7A71F7AA42323A1B0757B680169BF3DE.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/IO/8Z6TE7XPJH0N4NGDM5G8FO.uasset'
+[2023.09.18-19.59.10:651][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/V0/ZL0SLSEYGYT07XDJ00EIUF
+[2023.09.18-19.59.10:651][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/ZL0SLSEYGYT07XDJ00EIUF025652644BD8FEDD17B67183DE0AC2B5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/V0/ZL0SLSEYGYT07XDJ00EIUF.uasset'
+[2023.09.18-19.59.10:664][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/40/44UC22RK64JP3YG9GR8ZH4
+[2023.09.18-19.59.10:664][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/44UC22RK64JP3YG9GR8ZH4E0A308174CBBE4621EAA799260C05F5F.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/40/44UC22RK64JP3YG9GR8ZH4.uasset'
+[2023.09.18-19.59.10:685][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/97/TJ4C9PDLS1GUU3HZVA9VAW
+[2023.09.18-19.59.10:685][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/TJ4C9PDLS1GUU3HZVA9VAWC25021AF468FF1F4F554FFBA454B2A06.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/A/97/TJ4C9PDLS1GUU3HZVA9VAW.uasset'
+[2023.09.18-19.59.10:701][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/F0/2PBKWHHRFBG1A4L1JXPK2N
+[2023.09.18-19.59.10:701][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/2PBKWHHRFBG1A4L1JXPK2N8C0D440D4285B342DB8852926B58485A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/F0/2PBKWHHRFBG1A4L1JXPK2N.uasset'
+[2023.09.18-19.59.10:717][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/FP/E0070ZPQ0510UOASJSCVAJ
+[2023.09.18-19.59.10:717][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/E0070ZPQ0510UOASJSCVAJ86845EF4421A952A2674AE82B882FFF0.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/FP/E0070ZPQ0510UOASJSCVAJ.uasset'
+[2023.09.18-19.59.10:732][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/3C/PEH7TW33XZKZ1EF9JBCDPX
+[2023.09.18-19.59.10:732][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/PEH7TW33XZKZ1EF9JBCDPX2A61C8264B73726A2BB319AC4FD13BC6.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/3C/PEH7TW33XZKZ1EF9JBCDPX.uasset'
+[2023.09.18-19.59.10:748][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/EO/2UN44M3CSTF66URSISACO7
+[2023.09.18-19.59.10:748][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/2UN44M3CSTF66URSISACO7297D891B4084C6BB067EC5AE65933288.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/EO/2UN44M3CSTF66URSISACO7.uasset'
+[2023.09.18-19.59.10:767][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/5S/LKWFWDPYQSEQSQPB66JM48
+[2023.09.18-19.59.10:767][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/LKWFWDPYQSEQSQPB66JM48BF3099794B4A92B11FACFDA8D661554A.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/5S/LKWFWDPYQSEQSQPB66JM48.uasset'
+[2023.09.18-19.59.10:784][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/JR/WB3NI9RNBS8ZM7NAOBCUT1
+[2023.09.18-19.59.10:784][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/WB3NI9RNBS8ZM7NAOBCUT1EA40C27D4912CC9C0FA632832074A9D5.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/D/JR/WB3NI9RNBS8ZM7NAOBCUT1.uasset'
+[2023.09.18-19.59.10:801][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/5W/6XNNGY07XFQS1KA8BSIAGI
+[2023.09.18-19.59.10:801][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/6XNNGY07XFQS1KA8BSIAGI819E452E4100AD5E50E0ED887F2DE934.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/4/5W/6XNNGY07XFQS1KA8BSIAGI.uasset'
+[2023.09.18-19.59.10:817][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/S0/ZQAAAMNNZKH0GPXO0DBFMJ
+[2023.09.18-19.59.10:817][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/ZQAAAMNNZKH0GPXO0DBFMJD86557A64C9A2ECFA8E9199AAF7DD8F9.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/S0/ZQAAAMNNZKH0GPXO0DBFMJ.uasset'
+[2023.09.18-19.59.10:830][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MX/VD8G2R3DRQURL3L2N8FK5A
+[2023.09.18-19.59.10:830][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/VD8G2R3DRQURL3L2N8FK5A725EE3344F751AD311547CB9CB2923CA.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/B/MX/VD8G2R3DRQURL3L2N8FK5A.uasset'
+[2023.09.18-19.59.10:843][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/P8/B0WWH2443MBX8KNWBXHRF4
+[2023.09.18-19.59.10:843][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/B0WWH2443MBX8KNWBXHRF467146D5A48FEE37AFB3282820623C8C6.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/P8/B0WWH2443MBX8KNWBXHRF4.uasset'
+[2023.09.18-19.59.10:858][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/FM/N6HUV654J3L83XHWCME1XN
+[2023.09.18-19.59.10:858][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/N6HUV654J3L83XHWCME1XN740E229641075790CD5275BE17D3C875.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/6/FM/N6HUV654J3L83XHWCME1XN.uasset'
+[2023.09.18-19.59.10:874][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/0H/BMRPGXAA4ISZUWMZHYLHZI
+[2023.09.18-19.59.10:874][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/BMRPGXAA4ISZUWMZHYLHZI1DCA515C49BC1605B78A0BB3D2FFAA12.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/0H/BMRPGXAA4ISZUWMZHYLHZI.uasset'
+[2023.09.18-19.59.10:890][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TR/EQW5T4BO9JJ206FV4WNNES
+[2023.09.18-19.59.10:890][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/EQW5T4BO9JJ206FV4WNNES363598B645D9EE568647FBAE2D4A15FB.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/9/TR/EQW5T4BO9JJ206FV4WNNES.uasset'
+[2023.09.18-19.59.10:902][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/J6/P0NXNHI04JBPOHH6OHIDSK
+[2023.09.18-19.59.10:902][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/P0NXNHI04JBPOHH6OHIDSKE4A839F947C4502B1AF8AD878FB4C7AD.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/J6/P0NXNHI04JBPOHH6OHIDSK.uasset'
+[2023.09.18-19.59.10:917][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/B3/RBYC3BLDB8MGWKK1EO1GW0
+[2023.09.18-19.59.10:917][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/RBYC3BLDB8MGWKK1EO1GW03A4F26A34B92E9FE17602E9EFCFF1E60.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/8/B3/RBYC3BLDB8MGWKK1EO1GW0.uasset'
+[2023.09.18-19.59.10:928][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/8Z/4LSU7JRUL69YYIDJGSE35W
+[2023.09.18-19.59.10:928][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/4LSU7JRUL69YYIDJGSE35W30D9B5BB41D2C284FD1F36841DB44512.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/D/8Z/4LSU7JRUL69YYIDJGSE35W.uasset'
+[2023.09.18-19.59.10:941][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DT/ZX3WQ173AO0DO5BNMZ4U3K
+[2023.09.18-19.59.10:941][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/ZX3WQ173AO0DO5BNMZ4U3K75E4D29C4F7A2451CC6DEDB79037F8FC.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/1/DT/ZX3WQ173AO0DO5BNMZ4U3K.uasset'
+[2023.09.18-19.59.10:966][145]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX
+[2023.09.18-19.59.10:966][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/3V83DZXP0WILS8G17CM3NXE911511A46490975103720BDFC1338AB.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX.uasset'
+[2023.09.18-19.59.10:972][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.30 sec (total: 6.18 sec)
+[2023.09.18-19.59.10:974][145]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/NewMap_HLOD0_Instancing
+/Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+/Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+/Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+/Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+/Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+/Game/__ExternalObjects__/NewMap/4/OA/KV5NVW6RVGCY40C13H5F98
+/Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+/Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+/Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+/Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+/Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+/Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+/Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+/Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+/Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+/Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+/Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+/Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+/Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+/Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+/Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+/Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+/Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+/Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+/Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+/Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+/Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+/Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+/Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+/Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+/Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+/Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+/Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+/Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+/Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+/Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+/Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+/Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+/Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+/Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+/Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+/Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+/Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+/Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+/Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+/Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+/Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+/Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+/Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+/Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+/Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+/Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+/Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+/Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+/Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+/Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+/Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+/Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+/Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+/Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+/Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+/Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+/Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+/Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+/Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+/Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+/Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+/Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+/Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+/Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+/Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+/Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+/Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+/Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+/Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+/Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+/Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+/Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+/Game/__ExternalActors__/NewMap/5/K5/N5PQOIOOZA749OR27OS0F7
+/Game/__ExternalActors__/NewMap/6/2O/DXFGF2WM4JJABUV0FET9FV
+/Game/__ExternalActors__/NewMap/9/2R/7Y8MMR44XVULYO5P3YZL6Q
+/Game/__ExternalActors__/NewMap/6/HH/WEV2UZOW80WMJE695BD7Q8
+/Game/__ExternalActors__/NewMap/5/XG/8DSW2V35VY2X5SMHCJ0A83
+/Game/__ExternalActors__/NewMap/4/OC/ZNLH3RF59GXIC6NLPXICJV
+/Game/__ExternalActors__/NewMap/2/4C/VZIZRHQCO6B7KG8DEJKZAU
+/Game/__ExternalActors__/NewMap/B/8P/CM2NN20XZG7JOWND4OKSFF
+/Game/__ExternalActors__/NewMap/5/J7/A965JVJJK99ZV7RSG0A80Y
+/Game/__ExternalActors__/NewMap/3/XV/FQZFA2ZLA9XBN7XWV0QIN8
+/Game/__ExternalActors__/NewMap/C/Z1/5JJ1TP1XPKW9WSX7HGUMJU
+/Game/__ExternalActors__/NewMap/D/YE/SR6HPODQM7KP47H3B60IL3
+/Game/__ExternalActors__/NewMap/7/OX/U1S14RGV0J3HYBLRGYLFIH
+/Game/__ExternalActors__/NewMap/7/69/K2DUYEPPDEHF7DXTMITAO4
+/Game/__ExternalActors__/NewMap/4/6W/J14X55NXI3UVJMVVIW1NAN
+/Game/__ExternalActors__/NewMap/9/R1/8BCEFBDGK0H81DULB6PL99
+/Game/__ExternalActors__/NewMap/7/ZI/H9Z8XD8BJTDFP4C3J5UYO5
+/Game/__ExternalActors__/NewMap/F/47/SRE2F10IBLNCEHWHDB0R5Q
+/Game/__ExternalActors__/NewMap/B/QO/2LS1PO2KB0MPBU3Q10JQLS
+/Game/__ExternalActors__/NewMap/0/QY/YUZCOR8LUXX6PIBH0Q0BO9
+/Game/__ExternalActors__/NewMap/7/P9/5INQQWN21QET7O4P293LRP
+/Game/__ExternalActors__/NewMap/2/IG/Y65WPOHBQW42TNWBNMQ1L3
+/Game/__ExternalActors__/NewMap/6/5X/42927YT2PIUFMXJ9TCYHNH
+/Game/__ExternalActors__/NewMap/0/65/3U8C974D5MOQ8LAHOO4OCF
+/Game/__ExternalActors__/NewMap/0/19/P6TW7XC9AP5UWY79STK9GK
+/Game/__ExternalActors__/NewMap/A/HQ/88P9BDP4TVKYFOZOJN3QMQ
+/Game/__ExternalActors__/NewMap/2/3Q/WL4B65TFTACMIMHM4H03A7
+/Game/__ExternalActors__/NewMap/A/OY/ET64S8Y7B7A56RDOXEXET4
+/Game/__ExternalActors__/NewMap/3/GN/GA7D4CR7K6V687F7J61C3N
+/Game/__ExternalActors__/NewMap/D/CY/79499WIO2JEGDOHXKAVE2Q
+/Game/__ExternalActors__/NewMap/3/7K/TMNUAYLY4F5HL33COW5OC3
+/Game/__ExternalActors__/NewMap/2/RD/GHAKQAVACU5JIZXY0Y8JB5
+/Game/__ExternalActors__/NewMap/C/MP/7SW071I54YKZ7WANNW9ZNF
+/Game/__ExternalActors__/NewMap/B/1O/W74LG5Z5X560FBYOC0UL54
+/Game/__ExternalActors__/NewMap/A/NH/500JBYKPF78U8D5OIH4ZTV
+/Game/__ExternalActors__/NewMap/A/KF/0HUUB8ZWRIJMRUKUDDMH1E
+/Game/__ExternalActors__/NewMap/C/7A/579A09SC2JTS2H6LSR13PL
+/Game/__ExternalActors__/NewMap/8/03/XUBA90OKAR0F82M61W3CX8
+/Game/__ExternalActors__/NewMap/9/XH/RE3KCKBHLMM1GG0PY3DP2X
+/Game/__ExternalActors__/NewMap/2/WD/GI741NDVNZBKI2A7TXX224
+/Game/__ExternalActors__/NewMap/1/4E/Q1KRQ2YOUWFAZ0SNJ2S0IF
+/Game/__ExternalActors__/NewMap/E/N8/PFO7BDZ0JAA14BRARTV0S0
+/Game/__ExternalActors__/NewMap/A/IO/8Z6TE7XPJH0N4NGDM5G8FO
+/Game/__ExternalActors__/NewMap/8/V0/ZL0SLSEYGYT07XDJ00EIUF
+/Game/__ExternalActors__/NewMap/1/40/44UC22RK64JP3YG9GR8ZH4
+/Game/__ExternalActors__/NewMap/A/97/TJ4C9PDLS1GUU3HZVA9VAW
+/Game/__ExternalActors__/NewMap/9/F0/2PBKWHHRFBG1A4L1JXPK2N
+/Game/__ExternalActors__/NewMap/1/FP/E0070ZPQ0510UOASJSCVAJ
+/Game/__ExternalActors__/NewMap/1/3C/PEH7TW33XZKZ1EF9JBCDPX
+/Game/__ExternalActors__/NewMap/B/EO/2UN44M3CSTF66URSISACO7
+/Game/__ExternalActors__/NewMap/2/5S/LKWFWDPYQSEQSQPB66JM48
+/Game/__ExternalActors__/NewMap/D/JR/WB3NI9RNBS8ZM7NAOBCUT1
+/Game/__ExternalActors__/NewMap/4/5W/6XNNGY07XFQS1KA8BSIAGI
+/Game/__ExternalActors__/NewMap/9/S0/ZQAAAMNNZKH0GPXO0DBFMJ
+/Game/__ExternalActors__/NewMap/B/MX/VD8G2R3DRQURL3L2N8FK5A
+/Game/__ExternalActors__/NewMap/9/P8/B0WWH2443MBX8KNWBXHRF4
+/Game/__ExternalActors__/NewMap/6/FM/N6HUV654J3L83XHWCME1XN
+/Game/__ExternalActors__/NewMap/1/0H/BMRPGXAA4ISZUWMZHYLHZI
+/Game/__ExternalActors__/NewMap/9/TR/EQW5T4BO9JJ206FV4WNNES
+/Game/__ExternalActors__/NewMap/1/J6/P0NXNHI04JBPOHH6OHIDSK
+/Game/__ExternalActors__/NewMap/8/B3/RBYC3BLDB8MGWKK1EO1GW0
+/Game/__ExternalActors__/NewMap/D/8Z/4LSU7JRUL69YYIDJGSE35W
+/Game/__ExternalActors__/NewMap/1/DT/ZX3WQ173AO0DO5BNMZ4U3K
+/Game/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX
+[2023.09.18-19.59.10:974][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.09.18-19.59.10:992][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.09.18-19.59.10:999][145]LogSavePackage: Moving output files for package: /Game/NewMap
+[2023.09.18-19.59.10:999][145]LogSavePackage: Moving '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Saved/NewMap0BDFFFB447CFDB48AE0D53A7EE00EB3E.tmp' to '../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/NewMap.umap'
+[2023.09.18-19.59.11:116][145]LogFileHelpers: Saving map 'NewMap' took 2.832
+[2023.09.18-19.59.11:116][145]Cmd: MAP LOAD FILE="../../../../../../Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.09.18-19.59.11:117][145]LightingResults: New page: Lighting Build
+[2023.09.18-19.59.11:117][145]LoadErrors: New page: Loading map: NewMap.umap
+[2023.09.18-19.59.11:177][145]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.18-19.59.11:177][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.18-19.59.11:198][145]LogContentBundle: [NewMap(Standalone)] Deleting container.
+[2023.09.18-19.59.11:198][145]MapCheck: New page: Map Check
+[2023.09.18-19.59.11:198][145]LightingResults: New page: Lighting Build
+[2023.09.18-19.59.11:365][145]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.09.18-19.59.11:372][145]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 96 triangles, StaticMesh_HLOD0_Instancing_1
+[2023.09.18-19.59.11:372][145]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.18-19.59.11:385][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.18-19.59.11:388][145]LogWorld: UWorld::CleanupWorld for MonsterJenny, bSessionEnded=true, bCleanupResources=true
+[2023.09.18-19.59.11:430][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.18-19.59.11:452][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.18-19.59.11:466][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.18-19.59.11:490][145]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2023.09.18-19.59.11:490][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.18-19.59.11:490][145]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.18-19.59.11:490][145]LogAIModule: Creating AISystem for world NewMap
+[2023.09.18-19.59.11:494][145]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.09.18-19.59.11:494][145]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.18-19.59.11:494][145]LogWorldPartition: UWorldPartition::Initialize(Asset=NewMap, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.09.18-19.59.11:770][145]LogContentBundle: [NewMap(Standalone)] Creating new contrainer.
+[2023.09.18-19.59.11:770][145]LogWorldPartition: Display: WorldPartition initialize took 276 ms (total: 892 ms)
+[2023.09.18-19.59.12:185][145]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.09.18-19.59.12:201][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.09.18-19.59.12:205][145]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.09.18-19.59.12:206][145]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.538ms to complete.
+[2023.09.18-19.59.12:206][145]LogFileHelpers: Loading map 'NewMap' took 1.090
+[2023.09.18-19.59.12:342][145]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_7_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_6_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_7_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_6_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_5_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_2_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_1_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_1_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_0_0_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_5_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_4_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_4_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_3_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/NewMap.NewMap:PersistentLevel.LandscapeStreamingProxy_D7T4VF4LBP34PHV9XOEVM5TIG_1_3_2_0
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.DirectionalLight /Game/NewMap.NewMap:PersistentLevel.DirectionalLight_UAID_A85E45CFE40401D200_1470382761
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/NewMap.NewMap:PersistentLevel.Landscape_UAID_A85E45CFE404FBD100_1221515703
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.SkyLight /Game/NewMap.NewMap:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.ExponentialHeightFog /Game/NewMap.NewMap:PersistentLevel.ExponentialHeightFog_UAID_A85E45CFE40401D200_1470382763
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.SkyAtmosphere /Game/NewMap.NewMap:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.VolumetricCloud /Game/NewMap.NewMap:PersistentLevel.VolumetricCloud_UAID_A85E45CFE40401D200_1470381760
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.WorldPartitionMiniMap /Game/NewMap.NewMap:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_069B7288-4681824D-D41E3894-8B3951F3
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_F0B34F1C-498F52BA-314B94B2-A472577C
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_26DBD2B7-434D115B-68D5CB88-82E789AF
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_5D23A82E-411A5CFD-F61C6285-B0703174
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/NewMap.NewMap:PersistentLevel.ActorFolder_UID_B7E9BD5B-45A65265-4791988D-EF54CCEB
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.WorldDataLayers /Game/NewMap.NewMap:PersistentLevel.WorldDataLayers
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.World /Game/NewMap.NewMap
+[2023.09.18-19.59.12:342][145]LogContentValidation: Display: Validating /Script/Engine.HLODLayer /Game/NewMap_HLOD0_Instancing.NewMap_HLOD0_Instancing
+[2023.09.18-19.59.12:461][145]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.18-19.59.15:069][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.09.18-19.59.15:071][418]LogStall: Shutdown...
+[2023.09.18-19.59.15:076][418]LogStall: Shutdown complete.
+[2023.09.18-19.59.15:117][418]LogSlate: Window 'RhythmAtTheDisco - Unreal Editor' being destroyed
+[2023.09.18-19.59.15:172][419]Cmd: QUIT_EDITOR
+[2023.09.18-19.59.15:172][419]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.09.18-19.59.15:176][419]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.09.18-19.59.15:176][419]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.09.18-19.59.15:176][419]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.09.18-19.59.15:226][419]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.18-19.59.15:226][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.18-19.59.15:227][419]LogContentBundle: [NewMap(Standalone)] Deleting container.
+[2023.09.18-19.59.15:227][419]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.09.18-19.59.15:228][419]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.09.18-19.59.15:378][419]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.09.18-19.59.15:378][419]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.09.18-19.59.15:378][419]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2023.09.18-19.59.15:378][419]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.09.18-19.59.15:378][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.18-19.59.15:379][419]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.09.18-19.59.15:383][419]LogAudio: Display: Audio Device Manager Shutdown
+[2023.09.18-19.59.15:388][419]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.09.18-19.59.15:388][419]LogExit: Preparing to exit.
+[2023.09.18-19.59.15:420][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:424][419]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:425][419]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.15:425][419]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.09.18-19.59.16:430][419]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.09.18-19.59.16:472][419]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.09.18-19.59.16:489][419]LogExit: Editor shut down
+[2023.09.18-19.59.16:491][419]LogExit: Transaction tracking system shut down
+[2023.09.18-19.59.16:561][419]LogExit: Object subsystem successfully closed.
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: ================================================
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: Total job queries 9, among them cache hits 4 (44.44%)
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: RAM used: 126.65 KiB of 1.60 GiB budget. Usage: 0.01%
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: Shaders Compiled: 1
+[2023.09.18-19.59.16:565][419]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100.00%)
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Job execution time: average 2.88 s, max 2.88 s
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Job life time (pending + execution): average 2.89 s, max 2.89
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.89 s
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Average processing rate: 0.35 jobs/sec
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Total thread time: 0.535 s
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Total thread preprocess time: 0.241 s
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Percentage time preprocessing: 45.03%
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Effective parallelization: 0.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 100.00% of total time (compiled    1 times, average 0.54 sec, max 0.54 sec, min 0.54 sec)
+[2023.09.18-19.59.16:566][419]LogShaderCompilers: Display: ================================================
+[2023.09.18-19.59.16:673][419]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.09.18-19.59.16:697][419]LogVirtualization: UE::Virtualization was shutdown
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1015)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module TextureEditor (1013)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1011)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1009)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module SceneOutliner (1007)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module AddContentDialog (1005)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1004)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module TextureAlignMode (989)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module BspMode (987)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module GeometryMode (985)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (983)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (981)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module IKRigEditor (979)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module ControlRigEditor (977)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module WaveTableEditor (975)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (973)
+[2023.09.18-19.59.16:717][419]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (971)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module GooglePADEditor (969)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (967)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (965)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (963)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (961)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (959)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (957)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (955)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (953)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module WebMMedia (951)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (949)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (947)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module SequenceRecorder (946)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (943)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (941)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (939)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (937)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (935)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (933)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (931)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module PlanarCut (929)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module FractureEngine (927)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module CharacterAI (925)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module SmartSnapping (923)
+[2023.09.18-19.59.16:719][419]LogModuleManager: Shutting down and abandoning module SessionServices (921)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module MeshPaint (919)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (917)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module PlacementMode (916)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module FoliageEdit (913)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module LandscapeEditor (911)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (909)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module ActorPickerMode (907)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module ViewportSnapping (905)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module ViewportInteraction (903)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module ClothPainter (901)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (900)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module LogVisualizer (897)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (895)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (893)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2023.09.18-19.59.16:721][419]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (890)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (887)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (885)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (883)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (881)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (879)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (877)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module AnimationSettings (875)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (873)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module CSVtoSVG (871)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (869)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module EditorConfig (867)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module EditorFramework (865)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (863)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module TraceInsights (861)
+[2023.09.18-19.59.17:336][419]MemoryProfiler: Shutdown
+[2023.09.18-19.59.17:336][419]NetworkingProfiler: Shutdown
+[2023.09.18-19.59.17:336][419]LoadingProfiler: Shutdown
+[2023.09.18-19.59.17:336][419]TimingProfiler: Shutdown
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module TraceServices (860)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module TraceAnalysis (859)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (855)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (854)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module InputBindingEditor (851)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module MergeActors (849)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (847)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module LocalizationService (846)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module HardwareTargeting (843)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (841)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module UndoHistory (839)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module XmlParser (837)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module Blutility (835)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (833)
+[2023.09.18-19.59.17:336][419]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (832)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (829)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (828)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module SettingsEditor (825)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module ProjectLauncher (823)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module SessionFrontend (821)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module ProfilerClient (819)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module DeviceManager (817)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module AutomationController (815)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module AutomationWindow (813)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module Layers (811)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (809)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module DetailCustomizations (807)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module PackagesDialog (805)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (803)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module Persona (801)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (800)
+[2023.09.18-19.59.17:337][419]LogModuleManager: Shutting down and abandoning module Kismet (797)
+[2023.09.18-19.59.17:343][419]LogModuleManager: Shutting down and abandoning module KismetWidgets (796)
+[2023.09.18-19.59.17:343][419]LogModuleManager: Shutting down and abandoning module GraphEditor (793)
+[2023.09.18-19.59.17:343][419]LogModuleManager: Shutting down and abandoning module StructViewer (791)
+[2023.09.18-19.59.17:343][419]LogModuleManager: Shutting down and abandoning module ClassViewer (789)
+[2023.09.18-19.59.17:345][419]LogModuleManager: Shutting down and abandoning module NaniteTools (787)
+[2023.09.18-19.59.17:345][419]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (785)
+[2023.09.18-19.59.17:345][419]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (783)
+[2023.09.18-19.59.17:345][419]LogModuleManager: Shutting down and abandoning module SourceControlWindows (781)
+[2023.09.18-19.59.17:345][419]LogModuleManager: Shutting down and abandoning module OutputLog (779)
+[2023.09.18-19.59.17:345][419]LogModuleManager: Shutting down and abandoning module Documentation (777)
+[2023.09.18-19.59.17:345][419]LogModuleManager: Shutting down and abandoning module LiveCoding (775)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (773)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (771)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module MovieScene (769)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (767)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (765)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (763)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module AudioMixer (762)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module AudioMixerCore (761)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module LauncherPlatform (757)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module AnalyticsET (755)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module PortalServices (753)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module PortalRpc (751)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module MessagingRpc (749)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module AIModule (747)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module GameplayDebugger (746)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module AITestSuite (744)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module NavigationSystem (742)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module DataLayerEditor (739)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (735)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (733)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module TypedElementFramework (731)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (729)
+[2023.09.18-19.59.17:350][419]LogModuleManager: Shutting down and abandoning module ProfilerService (727)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (725)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (723)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (721)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (719)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module TakesCore (717)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (715)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module MegascansPlugin (713)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module Bridge (711)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (709)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module LightMixer (707)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (705)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (703)
+[2023.09.18-19.59.17:602][419]LogModuleManager: Shutting down and abandoning module CollectionManager (702)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (699)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (697)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module TakeSequencer (695)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module TakeMovieScene (693)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (691)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module InterchangeTests (689)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module AlembicImporter (685)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module AlembicLibrary (684)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module VariantManager (681)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (680)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (677)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (675)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module UObjectPlugin (673)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (671)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (669)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (667)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (665)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module PluginUtils (663)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module GitSourceControl (661)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module DumpGPUServices (659)
+[2023.09.18-19.59.17:603][419]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (657)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module StylusInput (655)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (653)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (651)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (649)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeEditor (647)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (645)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (643)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (641)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (639)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (637)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangePipelines (635)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeExport (633)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeMessages (631)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeImport (629)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (627)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InterchangeNodes (625)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (623)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (621)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module EditorDebugTools (619)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module PluginBrowser (617)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (615)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (613)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GLTFImporter (611)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GLTFCore (609)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (607)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module CurveEditorTools (605)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (603)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module CryptoKeys (601)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ChangelistReview (599)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (597)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ControlRigSpline (595)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (593)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (591)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module SynthesisEditor (589)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ResonanceAudio (587)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (585)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (583)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (581)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ModelingOperators (579)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (577)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ModelingComponents (575)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryFramework (574)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (571)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MeshModelingTools (569)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (567)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module InputDebugging (565)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GooglePAD (563)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module DynamicMesh (561)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (559)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (557)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryCache (555)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (553)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (551)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (549)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module AudioCapture (547)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (546)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module AssetTags (543)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (541)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (539)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module AppleImageUtils (537)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module AndroidPermission (535)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (533)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (531)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module TemplateSequence (529)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (527)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module SequencerScripting (525)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (523)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MediaPlate (521)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module MediaCompositing (519)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ImgMedia (517)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (515)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module UVEditorTools (513)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module UVEditor (511)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module PresetAsset (509)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (507)
+[2023.09.18-19.59.17:604][419]LogOpenImageDenoise: OIDN shutting down
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (505)
+[2023.09.18-19.59.17:604][419]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (503)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (501)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (499)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module MeshLODToolset (497)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (495)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (493)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (491)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (489)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (487)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (486)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (484)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (481)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module DataflowNodes (479)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (477)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module DataflowEditor (475)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (473)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (471)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module ChaosNiagara (469)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module FractureEditor (467)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (465)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module BackChannel (463)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (461)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module AutomationUtils (459)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (457)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (455)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (453)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module Paper2DEditor (451)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (437)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module Niagara (435)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module NiagaraEditor (434)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module NiagaraCore (431)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (429)
+[2023.09.18-19.59.17:605][419]LogModuleManager: Shutting down and abandoning module TcpMessaging (427)
+[2023.09.18-19.59.17:706][419]LogModuleManager: Shutting down and abandoning module UdpMessaging (425)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (423)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (421)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module AnimationSharing (419)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (417)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (415)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module FacialAnimation (413)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module DataValidation (411)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (409)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module ContentBrowser (408)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module ContentBrowserData (407)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module TreeMap (404)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module GameplayCameras (401)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (399)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module IKRig (397)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (395)
+[2023.09.18-19.59.17:807][419]LogModuleManager: Shutting down and abandoning module ControlRig (393)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module Constraints (392)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module AnimationData (389)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module Synthesis (387)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module SoundFields (385)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module SignificanceManager (383)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (381)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (379)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module MetasoundEditor (377)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module ToolMenus (376)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module AudioWidgets (374)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (373)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (369)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module MetasoundEngine (367)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module WaveTable (366)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (364)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (361)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (359)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (357)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (355)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (353)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (351)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module CableComponent (349)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (347)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (346)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (343)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module SignalProcessing (342)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module ActorSequence (339)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (337)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (335)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module PBIK (333)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module FullBodyIK (331)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (329)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module TakeRecorder (328)
+[2023.09.18-19.59.17:808][419]LogModuleManager: Shutting down and abandoning module LevelEditor (326)
+[2023.09.18-19.59.17:812][419]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (325)
+[2023.09.18-19.59.17:813][419]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (323)
+[2023.09.18-19.59.17:813][419]LogModuleManager: Shutting down and abandoning module MainFrame (321)
+[2023.09.18-19.59.17:813][419]LogModuleManager: Shutting down and abandoning module HotReload (320)
+[2023.09.18-19.59.17:813][419]LogModuleManager: Shutting down and abandoning module ChaosCaching (315)
+[2023.09.18-19.59.17:814][419]LogModuleManager: Shutting down and abandoning module LevelSequence (314)
+[2023.09.18-19.59.17:814][419]LogModuleManager: Shutting down and abandoning module Paper2D (311)
+[2023.09.18-19.59.17:814][419]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2023.09.18-19.59.17:814][419]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2023.09.18-19.59.17:814][419]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2023.09.18-19.59.17:815][419]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2023.09.18-19.59.17:815][419]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2023.09.18-19.59.17:815][419]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2023.09.18-19.59.17:815][419]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2023.09.18-19.59.17:815][419]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2023.09.18-19.59.17:815][419]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2023.09.18-19.59.17:815][419]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2023.09.18-19.59.17:816][419]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module Core (233)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2023.09.18-19.59.17:817][419]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2023.09.18-19.59.17:828][419]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2023.09.18-19.59.17:828][419]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2023.09.18-19.59.17:828][419]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2023.09.18-19.59.17:830][419]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (116)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module NiagaraShader (114)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module AISupportModule (112)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (110)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (104)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (102)
+[2023.09.18-19.59.17:831][419]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (100)
+[2023.09.18-19.59.17:832][419]LogModuleManager: Shutting down and abandoning module XMPP (95)
+[2023.09.18-19.59.17:832][419]LogModuleManager: Shutting down and abandoning module WebSockets (94)
+[2023.09.18-19.59.17:855][419]LogModuleManager: Shutting down and abandoning module HTTP (91)
+[2023.09.18-19.59.17:855][419]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.09.18-19.59.17:855][419]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBD72E362-4750-F6E9-54F2-B8BE4CC1BC23%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=f147aa334093b64a019daebb436e2a64%7C0140ee0ca9cf4001807d53930f6e464e%7Cbfd0ccbb-cd4e-457f-af5a-322c5437e7f6&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.09.18-19.59.17:866][419]LogModuleManager: Shutting down and abandoning module SSL (90)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module VariantManagerContent (86)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module GLTFExporter (84)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module DatasmithContent (82)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (80)
+[2023.09.18-19.59.17:867][419]RenderDocPlugin: plugin has been unloaded.
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module PixWinPlugin (78)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (76)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module ChunkDownloader (72)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2023.09.18-19.59.17:867][419]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2023.09.18-19.59.17:870][419]LogModuleManager: Shutting down and abandoning module Media (67)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (58)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (56)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module SourceControl (55)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (52)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (50)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (48)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module PlatformCrypto (46)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.09.18-19.59.17:871][419]LogXGEController: Cleaning working directory: C:/Users/andrew.weaver/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.09.18-19.59.17:871][419]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.09.18-19.59.17:873][419]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.09.18-19.59.17:874][419]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.09.18-19.59.17:968][419]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.09.18-19.59.18:003][419]LogExit: Exiting.
+[2023.09.18-19.59.18:063][419]Log file closed, 09/18/23 14:59:18
