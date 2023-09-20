@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_Full_MenuSelection_Revised_Asset.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_asset.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_Clicked_asset.uasset",
@@ -128,6 +129,40 @@
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Staging_MT/Props/Streamer/Streamer_DefaultMaterial_Normal.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Staging_MT/Props/Streamer/Streamer_DefaultMaterial_OcclusionRoughnessMetallic.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Staging_MT/Props/Streamer/Streamer_DefaultMaterial_BaseColor.uasset"
+=======
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Custom_Particles_MT/Sparkles_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Sparkles_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Custom_Particles_MT/SparklesStage2_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/SparklesStage2_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Custom_Particles_MT/SparklesStage3_MT1.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/SparklesStage3_MT1.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Custom_Particles_MT/ArrowPress.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_HUD_Final_AW/Stress_Bar(Accessible)/StressBar_Accessible_Asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_HUD_Final_AW/Full_HUD_Accessible/StressBar_Accessible_Asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_Full_MenuSelection_Revised_Asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_Clicked_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_Hover_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/background/UI_DropDown_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/background/UI_Settings_Background_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/bars/UI_Settings_EffectsVolume_Bar_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/bars/UI_Settings_MasterVolume_Bar_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/bars/UI_Settings_MusicVolume_Bar_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/UI_Settings_BackButton_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/UI_Settings_BackButton_Clicked_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/UI_Settings_BackButton_Hover_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/FullSettingsMenu/UI_Full_SettingsMenu_asset_1.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/Sliders/UI_Settings_EffectsVolume_Slider_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/Sliders/UI_Settings_MasterVolume_Slider_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/Sliders/UI_Settings_MusicVolume_Slider_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/NotClicked/UI_Settings_EffectsVolume_ArrowClicker_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/NotClicked/UI_Settings_MasterVolume_ArrowClicker_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/NotClicked/UI_Settings_MusicVolume_ArrowClicker_asset_1.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_EffectsVolume_ArrowClicker_Clicked_asset_2.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_MasterVolume_ArrowClicker_Clicked_asset.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_MusicVolume_ArrowClicker_Clicked_asset_1.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Custom_Particles_MT/ArrowParticles.umap"
+>>>>>>> dev
 			]
 		}
 	]
