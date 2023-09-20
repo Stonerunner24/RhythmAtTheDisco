@@ -5,6 +5,22 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Materials/Glow_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Materials/PitchBlack_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Stage1Lights_Mt.umap",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/_GENERATED/mteel/Box_D38D7A54.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/_GENERATED/mteel/Rectangle_5C8A26CB.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/FbxScene_Stage_light.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Sparkles_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Stage2Lights_Mt.umap",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Sparkles_MT_2.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/SparklesStage2_MT.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/SparklesStage3_MT1.uasset",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Stage3Lights_MT.umap",
+				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Materials/NewMaterial.uasset",
+				"C:/Users/elico/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+=======
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/Phase3/MC_Dizzgo_2D/AnimationFiles/10.uasset",
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/Phase3/MC_Dizzgo_2D/AnimationFiles/10_Sprite.uasset",
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/Phase3/MC_Dizzgo_2D/AnimationFiles/11.uasset",
@@ -592,6 +608,7 @@
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/MC_Dizzgo_2D/AnimationFiles/11.uasset",
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/MC_Dizzgo_2D/AnimationFiles/10_Sprite.uasset",
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/MC_Dizzgo_2D/AnimationFiles/10.uasset"
+>>>>>>> 3491caec93b39dd9d9864ec3ea01861746ee0e80
 			]
 		}
 	]
