@@ -6,6 +6,44 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MainTitleScreen_aw/Ui_Full_MainTitleScreen_Asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MainTitleScreen_aw/Background/Ui_background_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MainTitleScreen_aw/Buttons/Ui_StartButton_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MainTitleScreen_aw/Buttons/Ui_StartButton_Clicked_Asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MainTitleScreen_aw/Logo/Team_Logo/Ui_Teamlogo_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MainTitleScreen_aw/Logo/TitleLogo/Ui_Logo_Asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_Full_MenuSelection_Revised_Asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_Clicked_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_MenuSelection_Screen/RevisedMenuSelection/UI_SettingsSelect_Button_Hover_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/background/UI_DropDown_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/background/UI_Settings_Background_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/bars/UI_Settings_EffectsVolume_Bar_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/bars/UI_Settings_MasterVolume_Bar_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/bars/UI_Settings_MusicVolume_Bar_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/UI_Settings_BackButton_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/UI_Settings_BackButton_Clicked_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/UI_Settings_BackButton_Hover_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/FullSettingsMenu/UI_Full_SettingsMenu_asset_1.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/Sliders/UI_Settings_EffectsVolume_Slider_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/Sliders/UI_Settings_MasterVolume_Slider_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/Sliders/UI_Settings_MusicVolume_Slider_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/NotClicked/UI_Settings_EffectsVolume_ArrowClicker_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/NotClicked/UI_Settings_MasterVolume_ArrowClicker_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/NotClicked/UI_Settings_MusicVolume_ArrowClicker_asset_1.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_EffectsVolume_ArrowClicker_Clicked_asset_2.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_MasterVolume_ArrowClicker_Clicked_asset.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_MusicVolume_ArrowClicker_Clicked_asset_1.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2_Pure.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2_Corr.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2_semi.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2/Song_2_Corr.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2/Song_2_Pure.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2/Song_2_semi.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2/Song_2_Sequence.uasset",
+				"C:/Users/Elijah/Development/Unreal_Projects/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/SongSelectScreen.uasset"
+=======
+<<<<<<< HEAD
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Materials/Glow_MT.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Materials/PitchBlack_MT.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Stage1Lights_Mt.umap",
@@ -609,6 +647,7 @@
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/MC_Dizzgo_2D/AnimationFiles/10_Sprite.uasset",
 				"C:/Users/zackary.hamil/Documents/Unreal Projects/RhythmAtTheDisco/RhythmAtTheDisco/RhythmAtTheDisco/Content/Animations/MC_Dizzgo_2D/AnimationFiles/10.uasset"
 >>>>>>> 3491caec93b39dd9d9864ec3ea01861746ee0e80
+>>>>>>> 1839c2724164fdd2ec45f0ee9806ed90d450ee62
 			]
 		}
 	]
