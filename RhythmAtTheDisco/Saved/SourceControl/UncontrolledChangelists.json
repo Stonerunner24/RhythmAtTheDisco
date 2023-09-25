@@ -7,6 +7,7 @@
 			"files": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"C:/Users/samue/OneDrive/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2/Song_2_Sequence.uasset",
 				"C:/Users/samue/OneDrive/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_2/Song_2_RealPure.uasset",
 				"C:/Users/samue/OneDrive/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_1_Sequence.uasset",
@@ -92,6 +93,16 @@
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_MasterVolume_ArrowClicker_Clicked_asset.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/UI/UI_SettingsMenu_aw/Buttons/ArrowClickers/WhenClicked/UI_Settings_MusicVolume_ArrowClicker_Clicked_asset_1.uasset",
 				"C:/Users/m.teel/Desktop/RATD/RhythmAtTheDisco/RhythmAtTheDisco/Content/Lighting_Mt/Custom_Particles_MT/ArrowParticles.umap"
+=======
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/Inputs/playerInputChar.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_rightArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_downArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/Staging_MT/StagingLevel1.umap",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_upArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_leftArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/arrowSpawnManager.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/Music/Song_1_Sequence.uasset"
+>>>>>>> b0262f6e0aeb71014585a0035ff7f9e0ed5efe67
 			]
 		}
 	]
