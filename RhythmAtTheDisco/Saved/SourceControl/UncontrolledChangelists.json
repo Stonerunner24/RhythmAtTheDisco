@@ -6,6 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/RhythmAtTheDisco_W_Arrow/A/QT/REU3I59CCIDYPQ341LNLIT.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/arrowSpawnManager.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/RhythmAtTheDisco_W_Arrow/F/1F/THSUYMULRTKDRH1819MJ57.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/Inputs/playerInputChar.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/RhythmAtTheDisco_W_Arrow.umap",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_downArrow.uasset",
+				"C:/Users/minec/Desktop/teamGameProgrammingShit/Game 1/RhythmAtTheDisco/RhythmAtTheDisco/Content/models/arrowSpawnables/BP_upArrow.uasset"
+=======
+<<<<<<< HEAD
 				"C:/Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalActors__/AnimationsForMonsterJenny/MonsterJenny/9/MQ/17VEL3XC73TY65G1VFG0WS.uasset",
 				"C:/Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/AnimationsForMonsterJenny/MonsterJenny/C/M2/1KN03XRDAPD6SMMU45BHTB.uasset",
 				"C:/Users/andrew.weaver/Documents/GitHub/RhythmAtTheDisco/RhythmAtTheDisco/Content/__ExternalObjects__/AnimationsForMonsterJenny/MonsterJenny/A/LC/17G3MF1DYU5700HR50YFZX.uasset",
@@ -1556,6 +1565,7 @@
 >>>>>>> dev
 >>>>>>> c16f387e978f7619d0670607d3bfcb05f415a58e
 >>>>>>> 11a82b49a626ecb6c9463621ce26476015023cab
+>>>>>>> e741ef94d583f20bab4f462efa1766f8b844e234
 			]
 		}
 	]
